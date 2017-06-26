@@ -1,0 +1,223 @@
+/*------------------------------------------------------------------------
+# JA Mesolite 1.0 - July, 2008
+# ------------------------------------------------------------------------
+# Copyright (C) 2004-2008 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
+# @license - Copyrighted Commercial Software
+# Author: J.O.O.M Solutions Co., Ltd
+# Websites:  http://www.joomlart.com -  http://www.joomlancers.com
+-------------------------------------------------------------------------*/
+
+div.vm_element {
+	left:-999em;
+	position:absolute;
+}
+
+.productPrice {
+	font-weight: bold;
+}
+
+.addtocart_button_module, .notify_button {
+	padding: 0 0 2px;
+	width: 102px;
+	height: 22px;
+	background: url(../images/bt-addtocart1.gif) no-repeat top #00A9DD;
+	border: none;
+	text-indent: 18px;
+	color: #FFFFFF;
+	font-weight: bold;
+	margin-top: 5px;
+	cursor: pointer;
+}
+
+.addtocart_button_module:hover, .addtocart_button_module:active {
+	background: url(../images/bt-addtocart1.gif) no-repeat bottom #666666;
+	color: #FFFFFF;
+}
+
+.notify_button {
+	background: url(../images/bt-notify.gif) no-repeat #00A9DD;
+}
+
+input.addtocart_button {
+	color: #FFFFFF;
+	margin: 10px 0 0;
+	padding: 0 0 2px;
+	text-indent: 18px;
+	width: 102px;
+	height: 22px;
+	background: url(../images/bt-addtocart1.gif) no-repeat top #00A9DD;
+	border: none;
+}
+
+.vmFieldTitle {
+	margin-bottom: 5px;
+	padding-top: 10px;
+	background: url(../images/dot-h.gif) repeat-x top;
+}
+
+.chars-written {
+	margin-top: 5px;
+}
+
+.chars-written input {
+	background: #F7F7F7;
+}
+
+.vm-footer {
+	margin: 15px 0 20px;
+}
+
+#vmMainPage a.category {
+	color: #666666;
+	text-decoration: none;
+}
+
+#vmMainPage a.category:hover,
+#vmMainPage a.category:focus,
+#vmMainPage a.category:active {
+	color: #00A9DD;
+	text-decoration: none;
+}
+
+#vmMainPage hr {
+	margin: 5px 0;
+}
+
+.ja-vmreview strong {
+	display: block;
+}
+
+.ja-vmreview blockquote {
+	background: url(../images/so-q.gif) no-repeat left top;
+	padding: 0 0 0 30px;
+	margin-bottom: 20px;
+}
+
+.ja-vmreview blockquote div {
+}
+
+.vmFeedIcon {
+}
+
+/*Global VM Module*/
+.vm table {
+	margin: 15px 0;
+	padding: 0;;
+	display: block;
+	width: 100% !important;
+}
+
+.vm hr {
+	margin: 0 -15px;
+}
+
+.vm label {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+/* YourCart Module */
+#ja-vmcart {
+	position: absolute;
+	top: 0;
+	right: 15px;
+	width: 200px;
+	height: 74px;
+	z-index: 10;
+}
+
+#ja-vmcart div.moduletable {
+	border: none;
+	background: url(../images/vmcart-bg.gif) no-repeat right 15px #FFFFFF;
+	overflow: hidden;
+	height: 100px;
+	padding: 0 15px;
+}
+
+#ja-vmcart div.moduletable h3 {
+	margin: 0;
+	padding: 15px 0 10px;
+	background: none;
+	text-align: center;
+	border: none;
+}
+
+div.vm-showcart a {
+	display: block;
+	width: 73px;
+	height: 22px;
+	line-height: 21px;
+	margin-left: 45px;
+	text-align: center;
+	font-weight: bold;
+	color: #FFFFFF;
+	background: url(../images/bt-viewcart.gif) no-repeat #00A9DD;
+}
+
+div.vm-showcart a:hover,
+div.vm-showcart a:focus,
+div.vm-showcart a:active {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.vm-total-pro {
+	padding: 10px 0 0;
+	clear: left;
+	text-align: center;
+}
+
+.vmCartModule a img {
+	display: none;
+}
+
+.vmCartModule hr {
+	display: none;
+}
+
+/* Select currency */
+#ja-vmcurrency .button {
+	background: url(../images/bt-currency.gif) no-repeat top #00A9DD;
+	border: none;
+	height: 22px;
+	line-height: 21px;
+	margin-left: 5px;
+	padding-bottom: 5px;
+	width: 110px;
+}
+
+/*Slidder Module*/
+#ja-slider {
+	position: relative;
+	margin-top: 15px;
+}
+
+#ja-slider-left {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 30px;
+}
+
+#ja-slide-left-img, #ja-slide-right-img {
+	position: absolute;
+	top: 70px;
+}
+
+#ja-slider-center {
+	left: 30px;
+	height: 165px;
+}
+
+#ja-slider-right {
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 30px;
+}
+
+.jsslide {
+	white-space: nowrap;
+	overflow: hidden;
+	text-align: center;
+}

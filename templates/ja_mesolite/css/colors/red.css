@@ -1,0 +1,111 @@
+a {
+	color: #B01C1C;
+}
+
+a:hover, a:active, a:focus {
+	color: #B01C1C;
+}
+
+h1.logo a {
+	background: url(../../images/red/logo.gif) no-repeat;
+}
+
+.button {
+	border: 1px solid #B01C1C;
+	background: #B01C1C;
+}
+
+ul.pagination a:hover, ul.pagination a:active, ul.pagination a:focus {
+	background: #B01C1C;
+}
+
+div.moduletable h3,
+div.moduletable-menu h3,
+div.moduletable-text h3,
+div.moduletable-hilite h3,
+div.moduletable-menuhilite h3 {
+	background: url(../../images/red/dot-hilite.gif) repeat-y left #F7F7F7;
+}
+
+
+div.moduletable h3 span,
+div.moduletable-menu h3 span,
+div.moduletable-text h3 span,
+div.moduletable-hilite h3 span {
+	color: #B01C1C;
+}
+
+div.moduletable-menuhilite h3 {
+	background: #B01C1C;
+}
+
+#ja-pathway strong {
+	color: #B01C1C;
+}
+
+a.sublevel:hover,
+a.sublevel:active,
+a.sublevel:focus {
+	color: #B01C1C;
+}
+
+#active_menu {
+	color: #B01C1C;
+}
+
+a.readon {
+	background: url(../../images/red/arrow-readon-1.png) no-repeat left 2px;
+}
+
+a.readon:hover, a.readon:focus, a.readon:active {
+	background: url(../../images/red/arrow-readon-2.png) no-repeat left 2px;
+}
+
+/*VM Style*/
+#vmMainPage a.category:hover,
+#vmMainPage a.category:focus,
+#vmMainPage a.category:active {
+	color: #B01C1C;
+}
+
+.addtocart_button_module {
+	background: url(../../images/red/bt-addtocart1.gif) no-repeat top #B01C1C !important;
+}
+
+.notify_button {
+	background: url(../../images/red/bt-notify.gif) no-repeat #B01C1C !important;
+}
+
+input.addtocart_button {
+	background: url(../../images/red/bt-addtocart1.gif) no-repeat top #B01C1C !important;
+}
+
+#vmMainPage a.category:hover,
+#vmMainPage a.category:focus,
+#vmMainPage a.category:active {
+	color: #B01C1C;
+}
+
+div.vm-showcart a {
+	background: url(../../images/red/bt-viewcart.gif) no-repeat #B01C1C !important;
+}
+
+#ja-vmcurrency .button {
+	background: url(../../images/red/bt-currency.gif) no-repeat top #B01C1C !important;
+}
+
+/*SplitMenu*/
+#ja-splitmenu li.active a,
+#ja-splitmenu li.active a:hover,
+#ja-splitmenu li.active a:active,
+#ja-splitmenu li.active a:focus {
+	background: #B01C1C;
+}
+
+/*CSS+Moo*/
+#ja-cssmenu li a.active,
+#ja-cssmenu li a.active:hover,
+#ja-cssmenu li a.active:active,
+#ja-cssmenu li a.active:focus {
+	background: #B01C1C;
+}
