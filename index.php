@@ -330,10 +330,7 @@ $_SESSION['background'] = $numberBack;
 
          <p><h1>Сайт транспортных экспедиторских услуг.</h1></p>
 
-
-
-         <p><h1>Заказ международных грузоперевозок. </h1></p>
-
+         
 
 
          <p><h3> <a href="<?php echo $home_url.'ru/kontaktyi-menedzherov-otdela-gruzoperevozok-zakaz-transporta-zakaz-perevozok.php'; ?>" style="color:white">Контакты</a> </h3></p>
