@@ -445,194 +445,57 @@ $_SESSION['background'] = $numberBack;
 $(function () {
 
 
-
- 
-
-
-
-   $(window).scroll(function(event) {
-
-
-
+	if ($('html').width()>1024){		
+		$(window).scroll(function(event) {
         if($(this).scrollTop()>90) {
-
-
-
         $("#menu").fadeIn();
-
-
-
 		$("#menu").removeClass('navbarMAIN navbarMAIN-default navbarMAIN-fixed-top');
-
-
-
         $("#menu").addClass('navbar navbar-default navbar-fixed-top');
-
-
-
 		$("#nb-header").removeClass('navbarMAIN-header');
-
-
-
 		$("#nb-header").addClass('navbar-header');
-
-
-
 		$("#nb-title").removeClass('navbarMAIN-brand');
-
-
-
 		$("#nb-title").addClass('navbar-brand');
-
-
-
 		$("#nb-btn").removeClass('navbarMAIN-toggle collapsed');
-
-
-
 		$("#nb-btn").addClass('navbar-toggle collapsed');
-
-
-
 		$("#navbarMAIN-main").removeClass('navbarMAIN-collapse collapse');
-
-
-
 		$("#navbarMAIN-main").addClass('navbar-collapse collapse');
-
-
-
 		$("#nb-btn").attr("data-target", "#navbar-main");
-
-
-
 		$("#navbarMAIN-main").attr('id','navbar-main');
-
 		$("#nb-title").html('<img src="<?php echo $home_url;?>images/small_logo.png">');
-		
-
 		$("#nb-ul").removeClass('nav navbarMAIN-nav');
-
-
-
 		$("#nb-ul").addClass('nav navbar-nav');
-
-
-
 		$("#nb-right").removeClass('nav navbarMAIN-nav navbarMAIN-right');
-
-
-
 		$("#nb-right").addClass('nav navbar-nav navbar-right');
-
 		$("#nb-right").css('margin-right','4em');
-
-
-
 		$("#nb-left").removeClass('nav navbarMAIN-form navbarMAIN-left');
-
-
-
 		$("#nb-left").addClass('nav navbar-form navbar-left');
-
-
-
 		$("#nb-left input").css('background-color','#fff');
-
-
-
 		$("#nb-left input").css('color','#798d8f');
-
-
-
-		
-
-
-
     }
-
-
 
     else {
 
-
-
 		$("#menu").removeClass('navbar navbar-default navbar-fixed-top');
-
-
-
         $("#menu").addClass('navbarMAIN navbarMAIN-default navbarMAIN-fixed-top');
-
-
-
 		$("#nb-header").removeClass('navbar-header');
-
-
-
 		$("#nb-header").addClass('navbarMAIN-header');
-
-
-
 		$("#nb-title").removeClass('navbar-brand');
 		$("#nb-title").html('<span style="display:block;margin-top:15px">Moldova Truck</span>');
 		$("#nb-title").addClass('navbarMAIN-brand');
-
-
-
 		$("#nb-btn").removeClass('navbar-toggle collapsed');
-
-
-
 		$("#nb-btn").addClass('navbarMAIN-toggle collapsed');
-
-
-
 		$("#navbarMAIN-main").removeClass('navbar-collapse collapse');
-
-
-
 		$("#navbarMAIN-main").addClass('navbarMAIN-collapse collapse');
-
-
-
 		$("#nb-btn").attr("data-target", "#navbarMAIN-main");
-
-
-
 		$("#navbarMAIN-main").attr('id','navbarMAIN-main');
-
-
-
 		$("#nb-ul").removeClass('nav navbar-nav');
-
-
-
 		$("#nb-ul").addClass('nav navbarMAIN-nav');
-
-
-
 		$("#nb-right").removeClass('nav navbar-nav navbar-right');
-
-
-
 		$("#nb-right").addClass('nav navbarMAIN-nav navbarMAIN-right');
-
-
-
 		$("#nb-left").removeClass('nav navbar-form navbar-left');
-
-
-
 		$("#nb-left").addClass('nav navbarMAIN-form navbarMAIN-left');
-
-
-
 		$("#nb-left input").css('background-color','transparent');
-
-
-
 		$("#nb-left input").css('color','#fff');
-
 		$("#nb-right").css('margin-right:1em');
 
     }
@@ -640,12 +503,31 @@ $(function () {
 
 
     });
-
-
-
- 
-
-
+	}
+	else{
+		$("#menu").removeClass('navbarMAIN navbarMAIN-default navbarMAIN-fixed-top');
+        $("#menu").addClass('navbar navbar-default navbar-fixed-top');
+		$("#nb-header").removeClass('navbarMAIN-header');
+		$("#nb-header").addClass('navbar-header');
+		$("#nb-title").removeClass('navbarMAIN-brand');
+		$("#nb-title").addClass('navbar-brand');
+		$("#nb-btn").removeClass('navbarMAIN-toggle collapsed');
+		$("#nb-btn").addClass('navbar-toggle collapsed');
+		$("#navbarMAIN-main").removeClass('navbarMAIN-collapse collapse');
+		$("#navbarMAIN-main").addClass('navbar-collapse collapse');
+		$("#nb-btn").attr("data-target", "#navbar-main");
+		$("#navbarMAIN-main").attr('id','navbar-main');
+		$("#nb-title").html('<img src="<?php echo $home_url;?>images/small_logo.png">');
+		$("#nb-ul").removeClass('nav navbarMAIN-nav');
+		$("#nb-ul").addClass('nav navbar-nav');
+		$("#nb-right").removeClass('nav navbarMAIN-nav navbarMAIN-right');
+		$("#nb-right").addClass('nav navbar-nav navbar-right');
+		$("#nb-right").css('margin-right','4em');
+		$("#nb-left").removeClass('nav navbarMAIN-form navbarMAIN-left');
+		$("#nb-left").addClass('nav navbar-form navbar-left');
+		$("#nb-left input").css('background-color','#fff');
+		$("#nb-left input").css('color','#798d8f');
+	}
 
 });
 
