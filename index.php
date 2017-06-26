@@ -299,7 +299,7 @@ if (ID=='homepage' or ID=='ro' && $arrayROUTE[0]!=='forum')
 if (empty($_SESSION['background']))
     $numberBack = 1;
 else $numberBack = $_SESSION['background'] + 1;
-if($numberBack>6) $numberBack = 1;
+if($numberBack>5) $numberBack = 1;
 $_SESSION['background'] = $numberBack;
 ?>
  <div id="mainPage" style="background-image:url('<?=HOME?>images/banner_<?=$numberBack?>.png')">
@@ -308,11 +308,11 @@ $_SESSION['background'] = $numberBack;
 </div>
 
 
- <div class="container">
+ <div class="container" style="display: block;">
 
 
 
- 	 <fieldset id="MYform" style="font-size:0.9em">
+ 	 <fieldset id="MYform" style="font-size:0.9em;display: block;">
 
 
 
@@ -431,32 +431,9 @@ $_SESSION['background'] = $numberBack;
 {
 
 
-
-	$('#mainPage .container').fadeIn(300);
-
-
-
-	$('#mainPage #MYform').delay(800).fadeIn(500);
-
-
-
-	if (parseInt($('html').width())>=1025)
-
-
-
-	{
-
-
-
-		Contacts = $('#mainPage #contacts');
-
-
-
-		Contacts.delay(1300).fadeIn(300);
-
-
-
-	}
+    if ($('html').width()>1024){
+        $('#mainPage #contacts').css('display','block');
+    }
 
 
 

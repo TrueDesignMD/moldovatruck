@@ -157,7 +157,7 @@ h1,.h1{font-size:32px}
 }
 @media (max-width: 768px) {
     #mainPage{
-        height: 830px;
+        height: 880px;
     }
 }
 @media (min-width: 768px) {  .navbarMAIN {    border-radius: 4px;
