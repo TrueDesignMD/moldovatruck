@@ -284,7 +284,9 @@ AnotherFormName = '<? echo $ANOTHER; ?>';
 								elseif ($mosConfig_lang == 'en') { echo "Loading Date"; }
 							?>');" style="overflow:auto;background-color:white;    padding: 5px;">
                             
- <h4 style="color:#3498db;    text-align: center;
+ <h4 style="color: black;
+    text-align: left;
+    padding-left: 1em;
     margin-bottom: 2em;">
 
 <?php
