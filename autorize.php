@@ -11,7 +11,7 @@ if (!empty($_POST)&&empty($_SESSION['user']))
 		$login = mysqli_real_escape_string($CONNECTION,$_POST['login']);
 		$password = mysqli_real_escape_string($CONNECTION,$_POST['password']);
 	
-		$getUSER = mysqli_query($CONNECTION,"SELECT `password`,`userID`,`Email`,`activated`,`userType` FROM `".DB_PREFIX."users` WHERE `login`='$login'");
+		$getUSER = mysqli_query($CONNECTION,"SELECT `password`,`userID`,`Email`,`activated`,`userType` FROM `".DB_PREFIX."users` WHERE `Email`='$login'");
 		if (mysqli_num_rows($getUSER)==0) echo 'Такой пользователь не найден';
 		else
 		{

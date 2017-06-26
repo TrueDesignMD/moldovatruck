@@ -470,7 +470,9 @@ $result = mysqli_query($db,$query);
 		if (LANG=='en') $from_= 'from';
 
 
-echo '<div style="float:right;margin-top:1em">'.$page_.' '.$_GET['page'].' '.$from_.' '.$PagesCount.' </div>';
+		echo '<div style="float:right;margin-top:1em">'.$page_.' '.$_GET['page'].' '.$from_.' '.$PagesCount.' </div>';
+		echo Navigation(htmlspecialchars($_GET['page'],ENT_QUOTES),$PagesCount);
+		echo'</div>';
 		
 		
 

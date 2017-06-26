@@ -1642,8 +1642,11 @@ $(document).ready(function () {
       </div>
 
 <div style="padding-top:2em;padding-bottom:2em;background:#E3E9ED" id="fm">
-<div class="ttl">Транспортный грузовой форум moldovatruck</div>
+<div class="ttl">
+    Транспортный грузовой форум moldovatruck
+</div>
 <div class="container" style="margin-top:1em">
+    <a href="<?=HOME.LANG.'forum'?>" class="forum_link">Перейти на форум</a>
 <div class="table-responsive">
 				<table class="table" style="border:none">
 				<?php

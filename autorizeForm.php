@@ -43,18 +43,18 @@ if (!defined('INSERTED')&&!empty($_POST)&&$_POST['form_name']==$ANOTHER&&empty($
 
 if ((empty($_SESSION['user']) and !$inserted)&&(!isset($succes_message) or $succes_message == "")) {	
 	?>
-    <form action="<?php echo str_replace("&amp;","&",$_SERVER["REQUEST_URI"]).'#'.$ANOTHER; ?>" method="POST" name="<?php echo $ANOTHER;?>" id="<?php echo $ANOTHER;?>" onsubmit="enter('<?php echo $ANOTHER;?>','login,password','<?php if($mosConfig_lang=='ru') echo 'Логин';
-											 elseif($mosConfig_lang=='ro') echo 'Login';
-											 elseif($mosConfig_lang=='en') echo 'Login'; ?>!<?php if($mosConfig_lang=='ru') echo 'Пароль';
+    <form action="<?php echo str_replace("&amp;","&",$_SERVER["REQUEST_URI"]).'#'.$ANOTHER; ?>" method="POST" name="<?php echo $ANOTHER;?>" id="<?php echo $ANOTHER;?>" onsubmit="enter('<?php echo $ANOTHER;?>','login,password','<?php if($mosConfig_lang=='ru') echo 'Email';
+											 elseif($mosConfig_lang=='ro') echo 'Email';
+											 elseif($mosConfig_lang=='en') echo 'Email'; ?>!<?php if($mosConfig_lang=='ru') echo 'Пароль';
 											 elseif($mosConfig_lang=='ro') echo 'Parola';
 											 elseif($mosConfig_lang=='en') echo 'Password'; ?>');return false;" style="text-align:center;">
     <p class="alert alert-dismissible alert-danger" id="err_message" style="text-align:center;display:none;color:white"><?php echo $err_message; ?></p>
     <table class="bold" style="min-width:300px; max-width:80%;">
 <tr>
 <td align="left" style="padding-bottom:8px;min-width:180px;">
-    <label><?php if($mosConfig_lang=='ru') echo 'Логин';
-											 elseif($mosConfig_lang=='ro') echo 'Login';
-											 elseif($mosConfig_lang=='en') echo 'Login'; ?></label>
+    <label><?php if($mosConfig_lang=='ru') echo 'Email';
+											 elseif($mosConfig_lang=='ro') echo 'Email';
+											 elseif($mosConfig_lang=='en') echo 'Email'; ?></label>
 </td>
 <td><input type="text" class="form-control" id="login" name="login" style="width:100%;padding: 3px 5px;font-size: 1em;height:auto"/></td></tr>
 <tr>

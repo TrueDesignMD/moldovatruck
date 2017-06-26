@@ -21,237 +21,429 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mainForm.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cargo/mainForm.php">
+      <file leaf-file-name="birja_SEAgruza.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cargo/birja_SEAgruza.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="475" column="33" selection-start-line="475" selection-start-column="33" selection-end-line="475" selection-end-column="33" />
+            <state relative-caret-position="356">
+              <caret line="130" column="55" selection-start-line="130" selection-start-column="55" selection-end-line="130" selection-end-column="55" />
               <folding>
-                <element signature="e#14576#14638#0#HTML" expanded="true" />
-                <element signature="e#15059#15080#0#HTML" expanded="true" />
-                <element signature="e#15305#15323#0#HTML" expanded="true" />
-                <element signature="e#17260#17311#0#HTML" expanded="true" />
-                <element signature="e#18008#18026#0#HTML" expanded="true" />
-                <element signature="e#18289#18340#0#HTML" expanded="true" />
-                <element signature="e#19083#19134#0#HTML" expanded="true" />
-                <element signature="e#19808#19826#0#HTML" expanded="true" />
-                <element signature="e#19999#20050#0#HTML" expanded="true" />
-                <element signature="e#20708#20726#0#HTML" expanded="true" />
-                <element signature="e#20894#20945#0#HTML" expanded="true" />
-                <element signature="e#21565#21583#0#HTML" expanded="true" />
-                <element signature="e#21655#21678#0#HTML" expanded="true" />
-                <element signature="e#21853#21915#0#HTML" expanded="true" />
-                <element signature="e#22013#22069#0#HTML" expanded="true" />
-                <element signature="e#22504#22522#0#HTML" expanded="true" />
-                <element signature="e#22697#22760#0#HTML" expanded="true" />
-                <element signature="e#23055#23073#0#HTML" expanded="true" />
-                <element signature="e#23198#23282#0#HTML" expanded="true" />
-                <element signature="e#23383#23483#0#HTML" expanded="true" />
-                <element signature="e#23669#23687#0#HTML" expanded="true" />
-                <element signature="e#23873#23924#0#HTML" expanded="true" />
-                <element signature="e#24269#24289#0#HTML" expanded="true" />
-                <marker date="1498498006068" expanded="true" signature="3068:3097" ph="SELECT id FR... movers_contact" />
-                <marker date="1498498006068" expanded="true" signature="3639:4028" ph="INSERT INTO movers_cargo... " />
-                <marker date="1498498006068" expanded="true" signature="4272:4361" ph="SELECT `coun... country" />
-                <marker date="1498498006068" expanded="true" signature="4745:4834" ph="SELECT `coun... country" />
+                <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <marker date="1498504361014" expanded="true" signature="257:289" ph="..." />
+                <marker date="1498504361014" expanded="true" signature="1642:1670" ph="SELECT * FRO... movers_cargo" />
+                <marker date="1498504361014" expanded="true" signature="3390:3471" ph="SELECT `coun... country" />
+                <marker date="1498504361014" expanded="true" signature="3893:3974" ph="SELECT `coun... country" />
+                <marker date="1498504361014" expanded="true" signature="7936:7962" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="8222:8236" ph="..." />
+                <marker date="1498504361014" expanded="true" signature="8237:8608" ph="..." />
+                <marker date="1498504361014" expanded="true" signature="8248:8604" ph="..." />
+                <marker date="1498504361014" expanded="true" signature="8257:8592" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="8275:8284" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="8324:8333" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="8373:8382" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="8422:8431" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="8471:8480" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="8520:8529" ph="..." />
+                <marker date="1498504361014" expanded="true" signature="9335:9386" ph="SELECT * FRO... movers_contact" />
+                <marker date="1498504361014" expanded="true" signature="10592:10680" ph="SELECT `coun... country" />
+                <marker date="1498504361014" expanded="true" signature="10784:10872" ph="SELECT `coun... country" />
+                <marker date="1498504361014" expanded="true" signature="11090:11174" ph="SELECT `city... city" />
+                <marker date="1498504361014" expanded="true" signature="11528:11612" ph="SELECT `city... city" />
+                <marker date="1498504361014" expanded="true" signature="11859:11946" ph="SELECT `tran... transport_type" />
+                <marker date="1498504361014" expanded="true" signature="12045:12130" ph="SELECT `carg... cargo_volume" />
+                <marker date="1498504361014" expanded="true" signature="12215:12294" ph="SELECT `carg... cargo_type" />
+                <marker date="1498504361014" expanded="true" signature="12356:13029" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="12373:12382" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="12449:12459" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="12511:12520" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="12587:12597" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="12651:12660" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="12702:12711" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="12787:12796" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="12859:12886" ph="..." />
+                <marker date="1498504361014" expanded="true" signature="13242:13268" ph="..." />
+                <marker date="1498504361014" expanded="true" signature="16530:16766" ph="..." />
+                <marker date="1498504361014" expanded="true" signature="16560:16738" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="16666:16673" ph="×" />
+                <marker date="1498504361014" expanded="true" signature="17213:17449" ph="..." />
+                <marker date="1498504361014" expanded="true" signature="17243:17421" ph="..." />
+                <marker date="1498504361014" expanded="false" signature="17349:17356" ph="×" />
+                <marker date="1498504361014" expanded="true" signature="17624:17638" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
+      <file leaf-file-name="birja_seagruzaPost.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cargo/birja_seagruzaPost.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="555" column="10" selection-start-line="555" selection-start-column="10" selection-end-line="555" selection-end-column="10" />
+            <state relative-caret-position="220">
+              <caret line="461" column="2" selection-start-line="461" selection-start-column="0" selection-end-line="461" selection-end-column="2" />
+              <folding>
+                <marker date="1498502406183" expanded="true" signature="422:454" ph="..." />
+                <marker date="1498502406183" expanded="true" signature="1807:1835" ph="SELECT * FRO... movers_cargo" />
+                <marker date="1498502406183" expanded="true" signature="3389:3470" ph="SELECT `coun... country" />
+                <marker date="1498502406183" expanded="true" signature="3892:3973" ph="SELECT `coun... country" />
+                <marker date="1498502406183" expanded="true" signature="6248:6262" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="6461:6475" ph="..." />
+                <marker date="1498502406183" expanded="true" signature="6476:6847" ph="..." />
+                <marker date="1498502406183" expanded="true" signature="6487:6843" ph="..." />
+                <marker date="1498502406183" expanded="true" signature="6496:6831" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="6514:6523" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="6563:6572" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="6612:6621" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="6661:6670" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="6710:6719" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="6759:6768" ph="..." />
+                <marker date="1498502406183" expanded="true" signature="7574:7625" ph="SELECT * FRO... movers_contact" />
+                <marker date="1498502406183" expanded="true" signature="8831:8919" ph="SELECT `coun... country" />
+                <marker date="1498502406183" expanded="true" signature="9023:9111" ph="SELECT `coun... country" />
+                <marker date="1498502406183" expanded="true" signature="9329:9413" ph="SELECT `city... city" />
+                <marker date="1498502406183" expanded="true" signature="9767:9851" ph="SELECT `city... city" />
+                <marker date="1498502406183" expanded="true" signature="10098:10185" ph="SELECT `tran... transport_type" />
+                <marker date="1498502406183" expanded="true" signature="10284:10369" ph="SELECT `carg... cargo_volume" />
+                <marker date="1498502406183" expanded="true" signature="10454:10533" ph="SELECT `carg... cargo_type" />
+                <marker date="1498502406183" expanded="true" signature="10595:11268" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="10612:10621" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="10688:10698" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="10750:10759" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="10826:10836" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="10890:10899" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="10941:10950" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="11026:11035" ph="..." />
+                <marker date="1498502406183" expanded="false" signature="11098:11125" ph="..." />
+                <marker date="1498502406183" expanded="true" signature="11481:11507" ph="..." />
+                <marker date="1498502406183" expanded="true" signature="11716:11729" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="birja_SEAtransport.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cargo/birja_SEAtransport.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="317" column="55" selection-start-line="317" selection-start-column="55" selection-end-line="317" selection-end-column="55" />
+              <folding>
+                <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <marker date="1498504361054" expanded="true" signature="280:312" ph="..." />
+                <marker date="1498504361054" expanded="true" signature="1678:1706" ph="SELECT * FRO... movers_order" />
+                <marker date="1498504361054" expanded="true" signature="3472:3553" ph="SELECT `coun... country" />
+                <marker date="1498504361054" expanded="true" signature="3991:4072" ph="SELECT `coun... country" />
+                <marker date="1498504361054" expanded="true" signature="8008:8034" ph="..." />
+                <marker date="1498504361054" expanded="true" signature="8284:8298" ph="..." />
+                <marker date="1498504361054" expanded="true" signature="8299:8626" ph="..." />
+                <marker date="1498504361054" expanded="true" signature="8312:8620" ph="..." />
+                <marker date="1498504361054" expanded="true" signature="8323:8606" ph="..." />
+                <marker date="1498504361054" expanded="false" signature="8343:8352" ph="..." />
+                <marker date="1498504361054" expanded="false" signature="8391:8400" ph="..." />
+                <marker date="1498504361054" expanded="false" signature="8439:8448" ph="..." />
+                <marker date="1498504361054" expanded="false" signature="8487:8496" ph="..." />
+                <marker date="1498504361054" expanded="false" signature="8535:8544" ph="..." />
+                <marker date="1498504361054" expanded="true" signature="9433:9484" ph="SELECT * FRO... movers_contact" />
+                <marker date="1498504361054" expanded="true" signature="10793:10881" ph="SELECT `coun... country" />
+                <marker date="1498504361054" expanded="true" signature="10985:11073" ph="SELECT `coun... country" />
+                <marker date="1498504361054" expanded="true" signature="11177:11264" ph="SELECT `tran... transport_type" />
+                <marker date="1498504361054" expanded="true" signature="11361:11446" ph="SELECT `carg... cargo_volume" />
+                <marker date="1498504361054" expanded="true" signature="11649:11733" ph="SELECT `city... city" />
+                <marker date="1498504361054" expanded="true" signature="12070:12154" ph="SELECT `city... city" />
+                <marker date="1498504361054" expanded="true" signature="12347:13008" ph="..." />
+                <marker date="1498504361054" expanded="false" signature="12366:12375" ph="..." />
+                <marker date="1498504361054" expanded="false" signature="12442:12452" ph="..." />
+                <marker date="1498504361054" expanded="false" signature="12504:12513" ph="..." />
+                <marker date="1498504361054" expanded="false" signature="12580:12590" ph="..." />
+                <marker date="1498504361054" expanded="false" signature="12642:12651" ph="..." />
+                <marker date="1498504361054" expanded="false" signature="12726:12754" ph="..." />
+                <marker date="1498504361054" expanded="false" signature="12820:12829" ph="..." />
+                <marker date="1498504361054" expanded="true" signature="13225:13251" ph="..." />
+                <marker date="1498504361054" expanded="true" signature="16434:16670" ph="..." />
+                <marker date="1498504361054" expanded="true" signature="16464:16642" ph="..." />
+                <marker date="1498504361054" expanded="false" signature="16570:16577" ph="×" />
+                <marker date="1498504361054" expanded="true" signature="17117:17353" ph="..." />
+                <marker date="1498504361054" expanded="true" signature="17147:17325" ph="..." />
+                <marker date="1498504361054" expanded="false" signature="17253:17260" ph="×" />
+                <marker date="1498504361054" expanded="true" signature="17531:17545" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="birja_seatransportPost.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cargo/birja_seatransportPost.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="842" column="2" selection-start-line="842" selection-start-column="0" selection-end-line="842" selection-end-column="2" />
+              <folding>
+                <marker date="1498502756773" expanded="true" signature="435:467" ph="..." />
+                <marker date="1498502756773" expanded="true" signature="1835:1863" ph="SELECT * FRO... movers_order" />
+                <marker date="1498502756773" expanded="true" signature="3462:3543" ph="SELECT `coun... country" />
+                <marker date="1498502756773" expanded="true" signature="3981:4062" ph="SELECT `coun... country" />
+                <marker date="1498502756773" expanded="true" signature="6271:6297" ph="..." />
+                <marker date="1498502756773" expanded="true" signature="6548:6562" ph="..." />
+                <marker date="1498502756773" expanded="true" signature="6563:6890" ph="..." />
+                <marker date="1498502756773" expanded="true" signature="6576:6884" ph="..." />
+                <marker date="1498502756773" expanded="true" signature="6587:6870" ph="..." />
+                <marker date="1498502756773" expanded="false" signature="6607:6616" ph="..." />
+                <marker date="1498502756773" expanded="false" signature="6655:6664" ph="..." />
+                <marker date="1498502756773" expanded="false" signature="6703:6712" ph="..." />
+                <marker date="1498502756773" expanded="false" signature="6751:6760" ph="..." />
+                <marker date="1498502756773" expanded="false" signature="6799:6808" ph="..." />
+                <marker date="1498502756773" expanded="true" signature="7697:7748" ph="SELECT * FRO... movers_contact" />
+                <marker date="1498502756773" expanded="true" signature="9057:9145" ph="SELECT `coun... country" />
+                <marker date="1498502756773" expanded="true" signature="9249:9337" ph="SELECT `coun... country" />
+                <marker date="1498502756773" expanded="true" signature="9441:9528" ph="SELECT `tran... transport_type" />
+                <marker date="1498502756773" expanded="true" signature="9625:9710" ph="SELECT `carg... cargo_volume" />
+                <marker date="1498502756773" expanded="true" signature="9913:9997" ph="SELECT `city... city" />
+                <marker date="1498502756773" expanded="true" signature="10334:10418" ph="SELECT `city... city" />
+                <marker date="1498502756773" expanded="true" signature="10611:11272" ph="..." />
+                <marker date="1498502756773" expanded="false" signature="10630:10639" ph="..." />
+                <marker date="1498502756773" expanded="false" signature="10706:10716" ph="..." />
+                <marker date="1498502756773" expanded="false" signature="10768:10777" ph="..." />
+                <marker date="1498502756773" expanded="false" signature="10844:10854" ph="..." />
+                <marker date="1498502756773" expanded="false" signature="10906:10915" ph="..." />
+                <marker date="1498502756773" expanded="false" signature="10990:11018" ph="..." />
+                <marker date="1498502756773" expanded="false" signature="11084:11093" ph="..." />
+                <marker date="1498502756773" expanded="true" signature="11489:11515" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="birja_TRAINgruza.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cargo/birja_TRAINgruza.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="132" column="55" selection-start-line="132" selection-start-column="55" selection-end-line="132" selection-end-column="55" />
+              <folding>
+                <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <marker date="1498504360851" expanded="true" signature="257:289" ph="..." />
+                <marker date="1498504360851" expanded="true" signature="1653:1681" ph="SELECT * FRO... movers_cargo" />
+                <marker date="1498504360851" expanded="true" signature="3401:3482" ph="SELECT `coun... country" />
+                <marker date="1498504360851" expanded="true" signature="3904:3985" ph="SELECT `coun... country" />
+                <marker date="1498504360851" expanded="true" signature="7948:7974" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="8233:8247" ph="..." />
+                <marker date="1498504360851" expanded="true" signature="8248:8619" ph="..." />
+                <marker date="1498504360851" expanded="true" signature="8259:8615" ph="..." />
+                <marker date="1498504360851" expanded="true" signature="8268:8603" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="8286:8295" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="8335:8344" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="8384:8393" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="8433:8442" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="8482:8491" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="8531:8540" ph="..." />
+                <marker date="1498504360851" expanded="true" signature="9346:9397" ph="SELECT * FRO... movers_contact" />
+                <marker date="1498504360851" expanded="true" signature="10603:10691" ph="SELECT `coun... country" />
+                <marker date="1498504360851" expanded="true" signature="10795:10883" ph="SELECT `coun... country" />
+                <marker date="1498504360851" expanded="true" signature="11101:11185" ph="SELECT `city... city" />
+                <marker date="1498504360851" expanded="true" signature="11539:11623" ph="SELECT `city... city" />
+                <marker date="1498504360851" expanded="true" signature="11870:11957" ph="SELECT `tran... transport_type" />
+                <marker date="1498504360851" expanded="true" signature="12056:12141" ph="SELECT `carg... cargo_volume" />
+                <marker date="1498504360851" expanded="true" signature="12226:12305" ph="SELECT `carg... cargo_type" />
+                <marker date="1498504360851" expanded="true" signature="12365:12722" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="12382:12391" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="12458:12468" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="12520:12529" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="12596:12606" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="12660:12669" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="12711:12720" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="12925:12934" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="12997:13024" ph="..." />
+                <marker date="1498504360851" expanded="true" signature="13382:13408" ph="..." />
+                <marker date="1498504360851" expanded="true" signature="16669:16905" ph="..." />
+                <marker date="1498504360851" expanded="true" signature="16699:16877" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="16805:16812" ph="×" />
+                <marker date="1498504360851" expanded="true" signature="17354:17590" ph="..." />
+                <marker date="1498504360851" expanded="true" signature="17384:17562" ph="..." />
+                <marker date="1498504360851" expanded="false" signature="17490:17497" ph="×" />
+                <marker date="1498504360851" expanded="true" signature="17767:17781" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="birja_traingruzaPost.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cargo/birja_traingruzaPost.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="468" column="2" selection-start-line="468" selection-start-column="0" selection-end-line="468" selection-end-column="2" />
+              <folding>
+                <marker date="1498502756131" expanded="true" signature="422:454" ph="..." />
+                <marker date="1498502756131" expanded="true" signature="1815:1843" ph="SELECT * FRO... movers_cargo" />
+                <marker date="1498502756131" expanded="true" signature="3767:3848" ph="SELECT `coun... country" />
+                <marker date="1498502756131" expanded="true" signature="4273:4354" ph="SELECT `coun... country" />
+                <marker date="1498502756131" expanded="true" signature="6610:6636" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="6895:6909" ph="..." />
+                <marker date="1498502756131" expanded="true" signature="6910:7281" ph="..." />
+                <marker date="1498502756131" expanded="true" signature="6921:7277" ph="..." />
+                <marker date="1498502756131" expanded="true" signature="6930:7265" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="6948:6957" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="6997:7006" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="7046:7055" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="7095:7104" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="7144:7153" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="7193:7202" ph="..." />
+                <marker date="1498502756131" expanded="true" signature="8008:8059" ph="SELECT * FRO... movers_contact" />
+                <marker date="1498502756131" expanded="true" signature="9264:9352" ph="SELECT `coun... country" />
+                <marker date="1498502756131" expanded="true" signature="9456:9544" ph="SELECT `coun... country" />
+                <marker date="1498502756131" expanded="true" signature="9762:9846" ph="SELECT `city... city" />
+                <marker date="1498502756131" expanded="true" signature="10200:10284" ph="SELECT `city... city" />
+                <marker date="1498502756131" expanded="true" signature="10531:10618" ph="SELECT `tran... transport_type" />
+                <marker date="1498502756131" expanded="true" signature="10717:10802" ph="SELECT `carg... cargo_volume" />
+                <marker date="1498502756131" expanded="true" signature="10887:10966" ph="SELECT `carg... cargo_type" />
+                <marker date="1498502756131" expanded="true" signature="11031:11388" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="11048:11057" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="11124:11134" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="11186:11195" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="11262:11272" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="11326:11335" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="11377:11386" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="11591:11600" ph="..." />
+                <marker date="1498502756131" expanded="false" signature="11663:11690" ph="..." />
+                <marker date="1498502756131" expanded="true" signature="12048:12074" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="birja_TRAINtransport.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cargo/birja_TRAINtransport.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="305" column="55" selection-start-line="305" selection-start-column="55" selection-end-line="305" selection-end-column="55" />
+              <folding>
+                <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <marker date="1498504360976" expanded="true" signature="280:312" ph="..." />
+                <marker date="1498504360976" expanded="true" signature="1684:1712" ph="SELECT * FRO... movers_order" />
+                <marker date="1498504360976" expanded="true" signature="3478:3559" ph="SELECT `coun... country" />
+                <marker date="1498504360976" expanded="true" signature="3997:4078" ph="SELECT `coun... country" />
+                <marker date="1498504360976" expanded="true" signature="8000:8026" ph="..." />
+                <marker date="1498504360976" expanded="true" signature="8276:8290" ph="..." />
+                <marker date="1498504360976" expanded="true" signature="8291:8618" ph="..." />
+                <marker date="1498504360976" expanded="true" signature="8304:8612" ph="..." />
+                <marker date="1498504360976" expanded="true" signature="8315:8598" ph="..." />
+                <marker date="1498504360976" expanded="false" signature="8335:8344" ph="..." />
+                <marker date="1498504360976" expanded="false" signature="8383:8392" ph="..." />
+                <marker date="1498504360976" expanded="false" signature="8431:8440" ph="..." />
+                <marker date="1498504360976" expanded="false" signature="8479:8488" ph="..." />
+                <marker date="1498504360976" expanded="false" signature="8527:8536" ph="..." />
+                <marker date="1498504360976" expanded="true" signature="9425:9476" ph="SELECT * FRO... movers_contact" />
+                <marker date="1498504360976" expanded="true" signature="10785:10873" ph="SELECT `coun... country" />
+                <marker date="1498504360976" expanded="true" signature="10977:11065" ph="SELECT `coun... country" />
+                <marker date="1498504360976" expanded="true" signature="11169:11256" ph="SELECT `tran... transport_type" />
+                <marker date="1498504360976" expanded="true" signature="11353:11438" ph="SELECT `carg... cargo_volume" />
+                <marker date="1498504360976" expanded="true" signature="11640:11724" ph="SELECT `city... city" />
+                <marker date="1498504360976" expanded="true" signature="12061:12145" ph="SELECT `city... city" />
+                <marker date="1498504360976" expanded="true" signature="12339:13002" ph="..." />
+                <marker date="1498504360976" expanded="false" signature="12358:12367" ph="..." />
+                <marker date="1498504360976" expanded="false" signature="12434:12444" ph="..." />
+                <marker date="1498504360976" expanded="false" signature="12496:12505" ph="..." />
+                <marker date="1498504360976" expanded="false" signature="12572:12582" ph="..." />
+                <marker date="1498504360976" expanded="false" signature="12634:12643" ph="..." />
+                <marker date="1498504360976" expanded="false" signature="12718:12746" ph="..." />
+                <marker date="1498504360976" expanded="false" signature="12812:12821" ph="..." />
+                <marker date="1498504360976" expanded="true" signature="13219:13245" ph="..." />
+                <marker date="1498504360976" expanded="true" signature="16426:16662" ph="..." />
+                <marker date="1498504360976" expanded="true" signature="16456:16634" ph="..." />
+                <marker date="1498504360976" expanded="false" signature="16562:16569" ph="×" />
+                <marker date="1498504360976" expanded="true" signature="17112:17348" ph="..." />
+                <marker date="1498504360976" expanded="true" signature="17142:17320" ph="..." />
+                <marker date="1498504360976" expanded="false" signature="17248:17255" ph="×" />
+                <marker date="1498504360976" expanded="true" signature="17528:17542" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="birja_traintransportPost.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cargo/birja_traintransportPost.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="831" column="2" selection-start-line="831" selection-start-column="0" selection-end-line="831" selection-end-column="2" />
+              <folding>
+                <marker date="1498502756612" expanded="true" signature="436:468" ph="..." />
+                <marker date="1498502756612" expanded="true" signature="1834:1862" ph="SELECT * FRO... movers_order" />
+                <marker date="1498502756612" expanded="true" signature="3828:3909" ph="SELECT `coun... country" />
+                <marker date="1498502756612" expanded="true" signature="4347:4428" ph="SELECT `coun... country" />
+                <marker date="1498502756612" expanded="true" signature="6605:6631" ph="..." />
+                <marker date="1498502756612" expanded="true" signature="6882:6896" ph="..." />
+                <marker date="1498502756612" expanded="true" signature="6897:7224" ph="..." />
+                <marker date="1498502756612" expanded="true" signature="6910:7218" ph="..." />
+                <marker date="1498502756612" expanded="true" signature="6921:7204" ph="..." />
+                <marker date="1498502756612" expanded="false" signature="6941:6950" ph="..." />
+                <marker date="1498502756612" expanded="false" signature="6989:6998" ph="..." />
+                <marker date="1498502756612" expanded="false" signature="7037:7046" ph="..." />
+                <marker date="1498502756612" expanded="false" signature="7085:7094" ph="..." />
+                <marker date="1498502756612" expanded="false" signature="7133:7142" ph="..." />
+                <marker date="1498502756612" expanded="true" signature="8031:8082" ph="SELECT * FRO... movers_contact" />
+                <marker date="1498502756612" expanded="true" signature="9391:9479" ph="SELECT `coun... country" />
+                <marker date="1498502756612" expanded="true" signature="9583:9671" ph="SELECT `coun... country" />
+                <marker date="1498502756612" expanded="true" signature="9775:9862" ph="SELECT `tran... transport_type" />
+                <marker date="1498502756612" expanded="true" signature="9959:10044" ph="SELECT `carg... cargo_volume" />
+                <marker date="1498502756612" expanded="true" signature="10246:10330" ph="SELECT `city... city" />
+                <marker date="1498502756612" expanded="true" signature="10667:10751" ph="SELECT `city... city" />
+                <marker date="1498502756612" expanded="true" signature="10945:11608" ph="..." />
+                <marker date="1498502756612" expanded="false" signature="10964:10973" ph="..." />
+                <marker date="1498502756612" expanded="false" signature="11040:11050" ph="..." />
+                <marker date="1498502756612" expanded="false" signature="11102:11111" ph="..." />
+                <marker date="1498502756612" expanded="false" signature="11178:11188" ph="..." />
+                <marker date="1498502756612" expanded="false" signature="11240:11249" ph="..." />
+                <marker date="1498502756612" expanded="false" signature="11324:11352" ph="..." />
+                <marker date="1498502756612" expanded="false" signature="11418:11427" ph="..." />
+                <marker date="1498502756612" expanded="true" signature="11825:11851" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="birjaMain.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cargo/birjaMain.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="birjaPost.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cargo/birjaPost.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="301" column="34" selection-start-line="301" selection-start-column="34" selection-end-line="301" selection-end-column="34" />
+            <state relative-caret-position="220">
+              <caret line="263" column="6" selection-start-line="263" selection-start-column="4" selection-end-line="263" selection-end-column="6" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1498500077520" expanded="true" signature="285:374" ph="SELECT `user... ${DB_PREFIX}users" />
-                <marker date="1498500077520" expanded="true" signature="923:986" ph="SELECT `meta... jos_redirection" />
-                <marker date="1498500077520" expanded="true" signature="5490:5553" ph="SELECT `page... ${DB_PREFIX}pages" />
-                <marker date="1498500077520" expanded="true" signature="10310:10339" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="11980:12009" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="12836:13144" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="13045:13118" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="13131:13143" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="13164:13351" ph="SELECT DISTI... ${DB_PREFIX}menu" />
-                <marker date="1498500077520" expanded="true" signature="13370:13551" ph="SELECT DISTI... ${DB_PREFIX}menu" />
-                <marker date="1498500077520" expanded="true" signature="13991:14098" ph="SELECT * FRO... ${DB_PREFIX}menu" />
-                <marker date="1498500077520" expanded="true" signature="15004:15014" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="15179:15189" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="15240:15290" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="15303:15336" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="15425:15435" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="15554:15567" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="15580:15613" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="15861:16783" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="16085:16766" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="16200:16216" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="16347:16363" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="16452:16468" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="16551:16567" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="16708:16724" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="16804:17111" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="17012:17085" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="17098:17110" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="17188:17325" ph="SELECT `refe... jos_jf_content" />
-                <marker date="1498500077520" expanded="true" signature="17505:17618" ph="SELECT `oldu... jos_redirection" />
-                <marker date="1498500077520" expanded="true" signature="18318:18328" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="18476:18486" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="18537:18587" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="18738:18748" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="18799:18812" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="19051:19965" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="19277:19948" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="19392:19408" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="19539:19555" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="19644:19660" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="19740:19756" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="19894:19910" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="19986:20292" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="20193:20266" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="20279:20291" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="20369:20506" ph="SELECT `refe... jos_jf_content" />
-                <marker date="1498500077520" expanded="true" signature="20686:20799" ph="SELECT `oldu... jos_redirection" />
-                <marker date="1498500077520" expanded="true" signature="21499:21509" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="21657:21667" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="21718:21768" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="21918:21928" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="21979:21992" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="26365:26421" ph="SELECT * FRO... ${DB_PREFIX}sitemap" />
-                <marker date="1498500077520" expanded="true" signature="26653:26722" ph="SELECT * FRO... ${DB_PREFIX}sitemap" />
-                <marker date="1498500077520" expanded="true" signature="27730:27786" ph="SELECT * FRO... ${DB_PREFIX}sitemap" />
-                <marker date="1498500077520" expanded="true" signature="28018:28087" ph="SELECT * FRO... ${DB_PREFIX}sitemap" />
-                <marker date="1498500077520" expanded="true" signature="28371:28386" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="28949:29038" ph="SELECT * FRO... ${DB_PREFIX}types" />
-                <marker date="1498500077520" expanded="true" signature="29129:29163" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="30540:30778" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="30571:30759" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="30656:30685" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="31144:31286" ph="SELECT `foru... ${DB_PREFIX}forum_topic" />
-                <marker date="1498500077520" expanded="true" signature="31435:31518" ph="SELECT `user... ${DB_PREFIX}users" />
-                <marker date="1498500077520" expanded="true" signature="31878:32118" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="31883:31889" ph="•" />
-                <marker date="1498500077520" expanded="false" signature="32323:32430" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="32454:32520" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="32573:32683" ph="SELECT `titl... ${DB_PREFIX}forum_category" />
-                <marker date="1498500077520" expanded="true" signature="32993:33131" ph="SELECT `titl... ${DB_PREFIX}forum_category" />
-                <marker date="1498500077520" expanded="true" signature="33282:33414" ph="SELECT `foru... ${DB_PREFIX}forum_topic" />
-                <marker date="1498500077520" expanded="true" signature="49524:49531" ph="×" />
-                <marker date="1498500077520" expanded="true" signature="49952:50103" ph="SELECT DISTI... ${DB_PREFIX}menu" />
-                <marker date="1498500077520" expanded="true" signature="50385:50539" ph="SELECT DISTI... ${DB_PREFIX}menu" />
-                <marker date="1498500077520" expanded="true" signature="51116:51133" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="52601:52852" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="52634:52821" ph="..." />
-                <marker date="1498500077520" expanded="true" signature="52743:52750" ph="×" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="way.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cargo/way.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding>
-                <marker date="1498491917702" expanded="true" signature="45:114" ph="SELECT `wayT... ${DB_PREFIX}ways" />
-                <marker date="1498491917702" expanded="true" signature="562:594" ph="..." />
-                <marker date="1498491917702" expanded="true" signature="653:670" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/system/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="810" column="105" selection-start-line="810" selection-start-column="105" selection-end-line="810" selection-end-column="105" />
-              <folding>
-                <marker date="1498498726789" expanded="true" signature="393:518" ph="SELECT `Meta... ${DB_PREFIX}forum_category" />
-                <marker date="1498498726789" expanded="true" signature="1367:1470" ph="SELECT `Meta... ${DB_PREFIX}pages" />
-                <marker date="1498498726789" expanded="true" signature="1809:1936" ph="SELECT `Meta... ${DB_PREFIX}forum_category" />
-                <marker date="1498498726789" expanded="true" signature="2212:2343" ph="SELECT `Meta... ${DB_PREFIX}forum_topic" />
-                <marker date="1498498726789" expanded="true" signature="2872:2964" ph="SELECT `Meta... ${DB_PREFIX}pages" />
-                <marker date="1498498726789" expanded="true" signature="3050:3110" ph="SELECT `newu... jos_redirection" />
-                <marker date="1498498726789" expanded="true" signature="3363:3444" ph="SELECT `meta... jos_content" />
-                <marker date="1498498726789" expanded="true" signature="4194:4279" ph="SELECT `meta... jos_content" />
-                <marker date="1498498726789" expanded="true" signature="4721:4824" ph="SELECT `Cont... ${DB_PREFIX}translation" />
-                <marker date="1498498726789" expanded="true" signature="5230:5369" ph="SELECT `Cont... ${DB_PREFIX}pages" />
-                <marker date="1498498726789" expanded="true" signature="5940:5978" ph="SELECT * FRO... ${DB_PREFIX}languages" />
-                <marker date="1498498726789" expanded="true" signature="6318:6334" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="6458:6533" ph="SELECT `newu... jos_redirection" />
-                <marker date="1498498726789" expanded="true" signature="6735:6751" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="9159:9222" ph="SELECT `Cont... ${DB_PREFIX}forms" />
-                <marker date="1498498726789" expanded="true" signature="10965:11032" ph="SELECT `Cont... ${DB_PREFIX}blocks" />
-                <marker date="1498498726789" expanded="true" signature="11454:11504" ph="SELECT `titl... jos_content" />
-                <marker date="1498498726789" expanded="true" signature="11699:11804" ph="SELECT `page... ${DB_PREFIX}pages" />
-                <marker date="1498498726789" expanded="true" signature="12002:12062" ph="SELECT `newu... jos_redirection" />
-                <marker date="1498498726789" expanded="true" signature="12276:12330" ph="SELECT `titl... jos_content" />
-                <marker date="1498498726789" expanded="true" signature="12748:12802" ph="SELECT `intr... jos_content" />
-                <marker date="1498498726789" expanded="true" signature="13043:13122" ph="SELECT `Cont... ${DB_PREFIX}pages" />
-                <marker date="1498498726789" expanded="true" signature="13280:13340" ph="SELECT `newu... jos_redirection" />
-                <marker date="1498498726789" expanded="true" signature="13559:13628" ph="SELECT `intr... jos_content" />
-                <marker date="1498498726789" expanded="true" signature="14137:14197" ph="SELECT `newu... jos_redirection" />
-                <marker date="1498498726789" expanded="true" signature="14410:14479" ph="SELECT `intr... jos_content" />
-                <marker date="1498498726789" expanded="true" signature="18180:18193" ph="..." />
-                <marker date="1498498726789" expanded="false" signature="18920:18935" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="19274:19289" ph="..." />
-                <marker date="1498498726789" expanded="false" signature="20208:20223" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="20562:20577" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="20727:21004" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="20762:20861" ph="{...}" />
-                <marker date="1498498726789" expanded="true" signature="20892:20991" ph="{...}" />
-                <marker date="1498498726789" expanded="true" signature="35670:35776" ph="..." />
-                <marker date="1498498726789" expanded="false" signature="35703:35738" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="35739:35776" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="35754:35771" ph="..." />
-                <marker date="1498498726789" expanded="false" signature="38413:38428" ph="..." />
-                <marker date="1498498726789" expanded="false" signature="38643:38658" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="39268:39283" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="39400:39415" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="39499:39534" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="39610:39645" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="39725:39772" ph="SELECT * FRO... ${DB_PREFIX}truckIcons" />
-                <marker date="1498498726789" expanded="true" signature="39911:39928" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="39984:39996" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="41194:43187" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="41238:41457" ph="{...}" />
-                <marker date="1498498726789" expanded="true" signature="41534:41859" ph="{...}" />
-                <marker date="1498498726789" expanded="true" signature="41937:42233" ph="{...}" />
-                <marker date="1498498726789" expanded="true" signature="42072:42229" ph="{...}" />
-                <marker date="1498498726789" expanded="true" signature="42277:42331" ph="{...}" />
-                <marker date="1498498726789" expanded="true" signature="42372:43175" ph="{...}" />
-                <marker date="1498498726789" expanded="true" signature="42525:42807" ph="{...}" />
-                <marker date="1498498726789" expanded="true" signature="43013:43170" ph="{...}" />
-                <marker date="1498498726789" expanded="true" signature="43309:43395" ph="SELECT `Show... ${DB_PREFIX}menutypes" />
-                <marker date="1498498726789" expanded="true" signature="43480:43662" ph="SELECT DISTI... ${DB_PREFIX}menu" />
-                <marker date="1498498726789" expanded="true" signature="43685:43861" ph="SELECT DISTI... ${DB_PREFIX}menu" />
-                <marker date="1498498726789" expanded="true" signature="44250:44432" ph="SELECT `menu... ${DB_PREFIX}menu" />
-                <marker date="1498498726789" expanded="true" signature="44457:44633" ph="SELECT `menu... ${DB_PREFIX}menu" />
-                <marker date="1498498726789" expanded="true" signature="45496:45520" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="45878:46060" ph="SELECT `menu... ${DB_PREFIX}menu" />
-                <marker date="1498498726789" expanded="true" signature="46174:46350" ph="SELECT `menu... ${DB_PREFIX}menu" />
-                <marker date="1498498726789" expanded="true" signature="46616:46633" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="46723:46751" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="46768:46785" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="46878:46900" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="47150:47203" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="47216:47249" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="47512:47528" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="47541:47574" ph="..." />
-                <marker date="1498498726789" expanded="true" signature="47982:48021" ph="SELECT * FRO... ${DB_PREFIX}truckIcons" />
+                <marker date="1498502756239" expanded="true" signature="421:453" ph="..." />
+                <marker date="1498502756239" expanded="true" signature="1901:1929" ph="SELECT * FRO... movers_order" />
+                <marker date="1498502756239" expanded="true" signature="3838:3919" ph="SELECT `coun... country" />
+                <marker date="1498502756239" expanded="true" signature="4336:4417" ph="SELECT `coun... country" />
+                <marker date="1498502756239" expanded="true" signature="6776:6802" ph="..." />
+                <marker date="1498502756239" expanded="true" signature="7056:7070" ph="..." />
+                <marker date="1498502756239" expanded="true" signature="7071:7382" ph="..." />
+                <marker date="1498502756239" expanded="true" signature="7081:7379" ph="..." />
+                <marker date="1498502756239" expanded="true" signature="7089:7368" ph="..." />
+                <marker date="1498502756239" expanded="false" signature="7106:7115" ph="..." />
+                <marker date="1498502756239" expanded="false" signature="7154:7163" ph="..." />
+                <marker date="1498502756239" expanded="false" signature="7202:7211" ph="..." />
+                <marker date="1498502756239" expanded="false" signature="7250:7259" ph="..." />
+                <marker date="1498502756239" expanded="false" signature="7298:7307" ph="..." />
+                <marker date="1498502756239" expanded="true" signature="8080:8131" ph="SELECT * FRO... movers_contact" />
+                <marker date="1498502756239" expanded="true" signature="9028:9116" ph="SELECT `coun... country" />
+                <marker date="1498502756239" expanded="true" signature="9220:9308" ph="SELECT `coun... country" />
+                <marker date="1498502756239" expanded="true" signature="9412:9499" ph="SELECT `tran... transport_type" />
+                <marker date="1498502756239" expanded="true" signature="9596:9681" ph="SELECT `carg... cargo_volume" />
+                <marker date="1498502756239" expanded="true" signature="9887:9971" ph="SELECT `city... city" />
+                <marker date="1498502756239" expanded="true" signature="10308:10392" ph="SELECT `city... city" />
+                <marker date="1498502756239" expanded="true" signature="10584:11239" ph="..." />
+                <marker date="1498502756239" expanded="false" signature="10600:10609" ph="..." />
+                <marker date="1498502756239" expanded="false" signature="10676:10686" ph="..." />
+                <marker date="1498502756239" expanded="false" signature="10738:10747" ph="..." />
+                <marker date="1498502756239" expanded="false" signature="10814:10824" ph="..." />
+                <marker date="1498502756239" expanded="false" signature="10876:10885" ph="..." />
+                <marker date="1498502756239" expanded="false" signature="10960:10988" ph="..." />
+                <marker date="1498502756239" expanded="false" signature="11054:11063" ph="..." />
+                <marker date="1498502756239" expanded="true" signature="11446:11472" ph="..." />
               </folding>
             </state>
           </provider>
@@ -264,8 +456,34 @@
       <list>
         <option value="$PROJECT_DIR$/cargo/mainForm.php" />
         <option value="$PROJECT_DIR$/system/functions.php" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/cargo/birja_seagruzaPost.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_gruzaPost.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_PASSENGERgruza.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_passengergruzaPost.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_passengertransportPost.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_plaingruzaPost.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_plaintransportPost.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_postgruzaPost.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_posttransportPost.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_seatransportPost.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_traingruzaPost.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_traintransportPost.php" />
+        <option value="$PROJECT_DIR$/cargo/birjaPost.php" />
+        <option value="$PROJECT_DIR$/autorizeForm.php" />
+        <option value="$PROJECT_DIR$/autorize.php" />
+        <option value="$PROJECT_DIR$/cargo/birja.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_gruza.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_PASSENGERtransport.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_PLAINgruza.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_PLAINtransport.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_POSTgruza.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_POSTtransport.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_SEAgruza.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_SEAtransport.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_TRAINgruza.php" />
+        <option value="$PROJECT_DIR$/cargo/birja_TRAINtransport.php" />
       </list>
     </option>
   </component>
@@ -347,6 +565,49 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -358,18 +619,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498495944040</updated>
-      <workItem from="1498495947420" duration="4220000" />
+      <workItem from="1498495947420" duration="7589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4220000" />
+    <option name="totallyTimeSpent" value="7589000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1612" height="876" extended-state="1" />
+    <frame x="-8" y="-8" width="1612" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22164948" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985657" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -498,14 +759,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="555" column="10" selection-start-line="555" selection-start-column="10" selection-end-line="555" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cargo/mainForm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
@@ -544,88 +797,1223 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="301" column="34" selection-start-line="301" selection-start-column="34" selection-end-line="301" selection-end-column="34" />
+        <state relative-caret-position="288">
+          <caret line="1648" column="76" selection-start-line="1648" selection-start-column="76" selection-end-line="1648" selection-end-column="76" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1498500077520" expanded="true" signature="285:374" ph="SELECT `user... ${DB_PREFIX}users" />
-            <marker date="1498500077520" expanded="true" signature="923:986" ph="SELECT `meta... jos_redirection" />
-            <marker date="1498500077520" expanded="true" signature="5490:5553" ph="SELECT `page... ${DB_PREFIX}pages" />
-            <marker date="1498500077520" expanded="true" signature="10310:10339" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="11980:12009" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="12836:13144" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="13045:13118" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="13131:13143" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="13164:13351" ph="SELECT DISTI... ${DB_PREFIX}menu" />
-            <marker date="1498500077520" expanded="true" signature="13370:13551" ph="SELECT DISTI... ${DB_PREFIX}menu" />
-            <marker date="1498500077520" expanded="true" signature="13991:14098" ph="SELECT * FRO... ${DB_PREFIX}menu" />
-            <marker date="1498500077520" expanded="true" signature="15004:15014" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="15179:15189" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="15240:15290" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="15303:15336" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="15425:15435" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="15554:15567" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="15580:15613" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="15861:16783" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="16085:16766" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="16200:16216" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="16347:16363" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="16452:16468" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="16551:16567" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="16708:16724" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="16804:17111" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="17012:17085" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="17098:17110" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="17188:17325" ph="SELECT `refe... jos_jf_content" />
-            <marker date="1498500077520" expanded="true" signature="17505:17618" ph="SELECT `oldu... jos_redirection" />
-            <marker date="1498500077520" expanded="true" signature="18318:18328" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="18476:18486" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="18537:18587" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="18738:18748" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="18799:18812" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="19051:19965" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="19277:19948" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="19392:19408" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="19539:19555" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="19644:19660" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="19740:19756" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="19894:19910" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="19986:20292" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="20193:20266" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="20279:20291" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="20369:20506" ph="SELECT `refe... jos_jf_content" />
-            <marker date="1498500077520" expanded="true" signature="20686:20799" ph="SELECT `oldu... jos_redirection" />
-            <marker date="1498500077520" expanded="true" signature="21499:21509" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="21657:21667" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="21718:21768" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="21918:21928" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="21979:21992" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="26365:26421" ph="SELECT * FRO... ${DB_PREFIX}sitemap" />
-            <marker date="1498500077520" expanded="true" signature="26653:26722" ph="SELECT * FRO... ${DB_PREFIX}sitemap" />
-            <marker date="1498500077520" expanded="true" signature="27730:27786" ph="SELECT * FRO... ${DB_PREFIX}sitemap" />
-            <marker date="1498500077520" expanded="true" signature="28018:28087" ph="SELECT * FRO... ${DB_PREFIX}sitemap" />
-            <marker date="1498500077520" expanded="true" signature="28371:28386" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="28949:29038" ph="SELECT * FRO... ${DB_PREFIX}types" />
-            <marker date="1498500077520" expanded="true" signature="29129:29163" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="30540:30778" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="30571:30759" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="30656:30685" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="31144:31286" ph="SELECT `foru... ${DB_PREFIX}forum_topic" />
-            <marker date="1498500077520" expanded="true" signature="31435:31518" ph="SELECT `user... ${DB_PREFIX}users" />
-            <marker date="1498500077520" expanded="true" signature="31878:32118" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="31883:31889" ph="•" />
-            <marker date="1498500077520" expanded="false" signature="32323:32430" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="32454:32520" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="32573:32683" ph="SELECT `titl... ${DB_PREFIX}forum_category" />
-            <marker date="1498500077520" expanded="true" signature="32993:33131" ph="SELECT `titl... ${DB_PREFIX}forum_category" />
-            <marker date="1498500077520" expanded="true" signature="33282:33414" ph="SELECT `foru... ${DB_PREFIX}forum_topic" />
-            <marker date="1498500077520" expanded="true" signature="49524:49531" ph="×" />
-            <marker date="1498500077520" expanded="true" signature="49952:50103" ph="SELECT DISTI... ${DB_PREFIX}menu" />
-            <marker date="1498500077520" expanded="true" signature="50385:50539" ph="SELECT DISTI... ${DB_PREFIX}menu" />
-            <marker date="1498500077520" expanded="true" signature="51116:51133" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="52601:52852" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="52634:52821" ph="..." />
-            <marker date="1498500077520" expanded="true" signature="52743:52750" ph="×" />
+            <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1498501766478" expanded="true" signature="285:374" ph="SELECT `user... ${DB_PREFIX}users" />
+            <marker date="1498501766478" expanded="true" signature="923:986" ph="SELECT `meta... jos_redirection" />
+            <marker date="1498501766478" expanded="true" signature="5490:5553" ph="SELECT `page... ${DB_PREFIX}pages" />
+            <marker date="1498501766478" expanded="true" signature="10310:10339" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="11980:12009" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="12836:13144" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="13045:13118" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="13131:13143" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="13164:13351" ph="SELECT DISTI... ${DB_PREFIX}menu" />
+            <marker date="1498501766478" expanded="true" signature="13370:13551" ph="SELECT DISTI... ${DB_PREFIX}menu" />
+            <marker date="1498501766478" expanded="true" signature="13991:14098" ph="SELECT * FRO... ${DB_PREFIX}menu" />
+            <marker date="1498501766478" expanded="true" signature="15004:15014" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="15179:15189" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="15240:15290" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="15303:15336" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="15425:15435" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="15554:15567" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="15580:15613" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="15861:16783" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="16085:16766" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="16200:16216" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="16347:16363" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="16452:16468" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="16551:16567" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="16708:16724" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="16804:17111" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="17012:17085" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="17098:17110" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="17188:17325" ph="SELECT `refe... jos_jf_content" />
+            <marker date="1498501766478" expanded="true" signature="17505:17618" ph="SELECT `oldu... jos_redirection" />
+            <marker date="1498501766478" expanded="true" signature="18318:18328" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="18476:18486" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="18537:18587" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="18738:18748" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="18799:18812" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="19051:19965" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="19277:19948" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="19392:19408" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="19539:19555" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="19644:19660" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="19740:19756" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="19894:19910" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="19986:20292" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="20193:20266" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="20279:20291" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="20369:20506" ph="SELECT `refe... jos_jf_content" />
+            <marker date="1498501766478" expanded="true" signature="20686:20799" ph="SELECT `oldu... jos_redirection" />
+            <marker date="1498501766478" expanded="true" signature="21499:21509" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="21657:21667" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="21718:21768" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="21918:21928" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="21979:21992" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="26365:26421" ph="SELECT * FRO... ${DB_PREFIX}sitemap" />
+            <marker date="1498501766478" expanded="true" signature="26653:26722" ph="SELECT * FRO... ${DB_PREFIX}sitemap" />
+            <marker date="1498501766478" expanded="true" signature="27730:27786" ph="SELECT * FRO... ${DB_PREFIX}sitemap" />
+            <marker date="1498501766478" expanded="true" signature="28018:28087" ph="SELECT * FRO... ${DB_PREFIX}sitemap" />
+            <marker date="1498501766478" expanded="true" signature="28371:28386" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="28949:29038" ph="SELECT * FRO... ${DB_PREFIX}types" />
+            <marker date="1498501766478" expanded="true" signature="29129:29163" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="30540:30778" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="30571:30759" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="30656:30685" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="31227:31369" ph="SELECT `foru... ${DB_PREFIX}forum_topic" />
+            <marker date="1498501766478" expanded="true" signature="31518:31601" ph="SELECT `user... ${DB_PREFIX}users" />
+            <marker date="1498501766478" expanded="true" signature="31961:32201" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="31966:31972" ph="•" />
+            <marker date="1498501766478" expanded="false" signature="32406:32513" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="32537:32603" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="32656:32766" ph="SELECT `titl... ${DB_PREFIX}forum_category" />
+            <marker date="1498501766478" expanded="true" signature="33076:33214" ph="SELECT `titl... ${DB_PREFIX}forum_category" />
+            <marker date="1498501766478" expanded="true" signature="33365:33497" ph="SELECT `foru... ${DB_PREFIX}forum_topic" />
+            <marker date="1498501766478" expanded="true" signature="49607:49614" ph="×" />
+            <marker date="1498501766478" expanded="true" signature="50035:50186" ph="SELECT DISTI... ${DB_PREFIX}menu" />
+            <marker date="1498501766478" expanded="true" signature="50468:50622" ph="SELECT DISTI... ${DB_PREFIX}menu" />
+            <marker date="1498501766478" expanded="true" signature="51199:51216" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="52684:52935" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="52717:52904" ph="..." />
+            <marker date="1498501766478" expanded="true" signature="52826:52833" ph="×" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="563" column="22" selection-start-line="563" selection-start-column="22" selection-end-line="563" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autorizeForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="56" column="86" selection-start-line="56" selection-start-column="86" selection-end-line="56" selection-end-column="86" />
+          <folding>
+            <marker date="1498503031598" expanded="true" signature="553:659" ph="SELECT `pass... ${DB_PREFIX}users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autorize.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <marker date="1498503062588" expanded="true" signature="389:495" ph="SELECT `pass... ${DB_PREFIX}users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/contacts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#p#0;n#!!top" expanded="true" />
+            <marker date="1498491921182" expanded="true" signature="188:248" ph="SELECT * FRO... ${DB_PREFIX}operators" />
+            <marker date="1498491921182" expanded="true" signature="425:456" ph="..." />
+            <marker date="1498491921182" expanded="true" signature="472:485" ph="..." />
+            <marker date="1498491921182" expanded="true" signature="589:621" ph="..." />
+            <marker date="1498491921182" expanded="true" signature="685:718" ph="..." />
+            <marker date="1498491921182" expanded="true" signature="865:876" ph="..." />
+            <marker date="1498491921182" expanded="true" signature="885:903" ph="..." />
+            <marker date="1498491921182" expanded="true" signature="1036:1068" ph="..." />
+            <marker date="1498491921182" expanded="true" signature="1206:1224" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="304" column="71" selection-start-line="304" selection-start-column="71" selection-end-line="304" selection-end-column="71" />
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <marker date="1498504361256" expanded="true" signature="273:305" ph="..." />
+            <marker date="1498504361256" expanded="true" signature="1602:1630" ph="SELECT * FRO... movers_order" />
+            <marker date="1498504361256" expanded="true" signature="3467:3548" ph="SELECT `coun... country" />
+            <marker date="1498504361256" expanded="true" signature="3986:4067" ph="SELECT `coun... country" />
+            <marker date="1498504361256" expanded="true" signature="8734:8760" ph="..." />
+            <marker date="1498504361256" expanded="true" signature="9018:9032" ph="..." />
+            <marker date="1498504361256" expanded="true" signature="9033:9360" ph="..." />
+            <marker date="1498504361256" expanded="true" signature="9046:9354" ph="..." />
+            <marker date="1498504361256" expanded="true" signature="9057:9340" ph="..." />
+            <marker date="1498504361256" expanded="false" signature="9077:9086" ph="..." />
+            <marker date="1498504361256" expanded="false" signature="9125:9134" ph="..." />
+            <marker date="1498504361256" expanded="false" signature="9173:9182" ph="..." />
+            <marker date="1498504361256" expanded="false" signature="9221:9230" ph="..." />
+            <marker date="1498504361256" expanded="false" signature="9269:9278" ph="..." />
+            <marker date="1498504361256" expanded="true" signature="10167:10218" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498504361256" expanded="true" signature="11527:11615" ph="SELECT `coun... country" />
+            <marker date="1498504361256" expanded="true" signature="11719:11807" ph="SELECT `coun... country" />
+            <marker date="1498504361256" expanded="true" signature="12027:12111" ph="SELECT `city... city" />
+            <marker date="1498504361256" expanded="true" signature="12448:12532" ph="SELECT `city... city" />
+            <marker date="1498504361256" expanded="true" signature="12756:12843" ph="SELECT `tran... transport_type" />
+            <marker date="1498504361256" expanded="true" signature="12946:13031" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498504361256" expanded="true" signature="13098:13756" ph="..." />
+            <marker date="1498504361256" expanded="false" signature="13117:13126" ph="..." />
+            <marker date="1498504361256" expanded="false" signature="13193:13203" ph="..." />
+            <marker date="1498504361256" expanded="false" signature="13255:13264" ph="..." />
+            <marker date="1498504361256" expanded="false" signature="13331:13341" ph="..." />
+            <marker date="1498504361256" expanded="false" signature="13393:13402" ph="..." />
+            <marker date="1498504361256" expanded="false" signature="13477:13505" ph="..." />
+            <marker date="1498504361256" expanded="false" signature="13571:13580" ph="..." />
+            <marker date="1498504361256" expanded="true" signature="13973:13984" ph="..." />
+            <marker date="1498504361256" expanded="true" signature="17132:17368" ph="..." />
+            <marker date="1498504361256" expanded="true" signature="17162:17340" ph="..." />
+            <marker date="1498504361256" expanded="false" signature="17268:17275" ph="×" />
+            <marker date="1498504361256" expanded="true" signature="17826:18062" ph="..." />
+            <marker date="1498504361256" expanded="true" signature="17856:18034" ph="..." />
+            <marker date="1498504361256" expanded="false" signature="17962:17969" ph="×" />
+            <marker date="1498504361256" expanded="true" signature="18246:18260" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_gruza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="140" column="55" selection-start-line="140" selection-start-column="55" selection-end-line="140" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <marker date="1498504361214" expanded="true" signature="257:289" ph="..." />
+            <marker date="1498504361214" expanded="true" signature="2105:2133" ph="SELECT * FRO... movers_cargo" />
+            <marker date="1498504361214" expanded="true" signature="3928:4009" ph="SELECT `coun... country" />
+            <marker date="1498504361214" expanded="true" signature="4431:4512" ph="SELECT `coun... country" />
+            <marker date="1498504361214" expanded="true" signature="9222:9248" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="9511:9525" ph="..." />
+            <marker date="1498504361214" expanded="true" signature="9526:9897" ph="..." />
+            <marker date="1498504361214" expanded="true" signature="9537:9893" ph="..." />
+            <marker date="1498504361214" expanded="true" signature="9546:9881" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="9564:9573" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="9613:9622" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="9662:9671" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="9711:9720" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="9760:9769" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="9809:9818" ph="..." />
+            <marker date="1498504361214" expanded="true" signature="10624:10675" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498504361214" expanded="true" signature="11881:11969" ph="SELECT `coun... country" />
+            <marker date="1498504361214" expanded="true" signature="12073:12161" ph="SELECT `coun... country" />
+            <marker date="1498504361214" expanded="true" signature="12380:12464" ph="SELECT `city... city" />
+            <marker date="1498504361214" expanded="true" signature="12822:12906" ph="SELECT `city... city" />
+            <marker date="1498504361214" expanded="true" signature="13156:13243" ph="SELECT `tran... transport_type" />
+            <marker date="1498504361214" expanded="true" signature="13342:13427" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498504361214" expanded="true" signature="13515:13594" ph="SELECT `carg... cargo_type" />
+            <marker date="1498504361214" expanded="true" signature="13658:14327" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="13675:13684" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="13751:13761" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="13813:13822" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="13889:13899" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="13953:13962" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="14004:14013" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="14089:14098" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="14161:14188" ph="..." />
+            <marker date="1498504361214" expanded="true" signature="14542:14568" ph="..." />
+            <marker date="1498504361214" expanded="true" signature="17928:18164" ph="..." />
+            <marker date="1498504361214" expanded="true" signature="17958:18136" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="18064:18071" ph="×" />
+            <marker date="1498504361214" expanded="true" signature="18622:18858" ph="..." />
+            <marker date="1498504361214" expanded="true" signature="18652:18830" ph="..." />
+            <marker date="1498504361214" expanded="false" signature="18758:18765" ph="×" />
+            <marker date="1498504361214" expanded="true" signature="19040:19054" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_gruzaPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2737">
+          <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+          <folding>
+            <marker date="1498502584221" expanded="true" signature="440:472" ph="..." />
+            <marker date="1498502584221" expanded="true" signature="2160:2188" ph="SELECT * FRO... movers_cargo" />
+            <marker date="1498502584221" expanded="true" signature="4002:4083" ph="SELECT `coun... country" />
+            <marker date="1498502584221" expanded="true" signature="4508:4589" ph="SELECT `coun... country" />
+            <marker date="1498502584221" expanded="true" signature="6776:6802" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="7061:7075" ph="..." />
+            <marker date="1498502584221" expanded="true" signature="7076:7447" ph="..." />
+            <marker date="1498502584221" expanded="true" signature="7087:7443" ph="..." />
+            <marker date="1498502584221" expanded="true" signature="7096:7431" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="7114:7123" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="7163:7172" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="7212:7221" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="7261:7270" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="7310:7319" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="7359:7368" ph="..." />
+            <marker date="1498502584221" expanded="true" signature="8200:8251" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498502584221" expanded="true" signature="9487:9575" ph="SELECT `coun... country" />
+            <marker date="1498502584221" expanded="true" signature="9679:9767" ph="SELECT `coun... country" />
+            <marker date="1498502584221" expanded="true" signature="9985:10069" ph="SELECT `city... city" />
+            <marker date="1498502584221" expanded="true" signature="10423:10507" ph="SELECT `city... city" />
+            <marker date="1498502584221" expanded="true" signature="10754:10841" ph="SELECT `tran... transport_type" />
+            <marker date="1498502584221" expanded="true" signature="10940:11025" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498502584221" expanded="true" signature="11110:11189" ph="SELECT `carg... cargo_type" />
+            <marker date="1498502584221" expanded="true" signature="11249:11918" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="11266:11275" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="11342:11352" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="11404:11413" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="11480:11490" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="11544:11553" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="11595:11604" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="11680:11689" ph="..." />
+            <marker date="1498502584221" expanded="false" signature="11752:11779" ph="..." />
+            <marker date="1498502584221" expanded="true" signature="12132:12158" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_PASSENGERgruza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3774">
+          <caret line="255" column="21" selection-start-line="255" selection-start-column="21" selection-end-line="255" selection-end-column="21" />
+          <folding>
+            <marker date="1498502584029" expanded="true" signature="258:290" ph="..." />
+            <marker date="1498502584029" expanded="true" signature="1660:1718" ph="SELECT * FRO... movers_cargo_passengers" />
+            <marker date="1498502584029" expanded="true" signature="3356:3437" ph="SELECT `coun... country" />
+            <marker date="1498502584029" expanded="true" signature="3859:3940" ph="SELECT `coun... country" />
+            <marker date="1498502584029" expanded="true" signature="8583:8609" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="8871:8885" ph="..." />
+            <marker date="1498502584029" expanded="true" signature="8886:9208" ph="..." />
+            <marker date="1498502584029" expanded="true" signature="8897:9204" ph="..." />
+            <marker date="1498502584029" expanded="true" signature="8906:9192" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="8924:8933" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="8973:8982" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="9022:9031" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="9071:9080" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="9120:9129" ph="..." />
+            <marker date="1498502584029" expanded="true" signature="9935:9986" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498502584029" expanded="true" signature="11192:11280" ph="SELECT `coun... country" />
+            <marker date="1498502584029" expanded="true" signature="11386:11474" ph="SELECT `coun... country" />
+            <marker date="1498502584029" expanded="true" signature="11586:11689" ph="SELECT `cont... container_type_rails" />
+            <marker date="1498502584029" expanded="true" signature="11789:11887" ph="SELECT `tran... transport_type_passengers" />
+            <marker date="1498502584029" expanded="true" signature="12103:12187" ph="SELECT `city... city" />
+            <marker date="1498502584029" expanded="true" signature="12547:12631" ph="SELECT `city... city" />
+            <marker date="1498502584029" expanded="true" signature="12856:13219" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="12873:12882" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="12949:12959" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="13011:13020" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="13087:13097" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="13151:13160" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="13208:13217" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="13421:13448" ph="..." />
+            <marker date="1498502584029" expanded="true" signature="13796:13822" ph="..." />
+            <marker date="1498502584029" expanded="true" signature="17181:17417" ph="..." />
+            <marker date="1498502584029" expanded="true" signature="17211:17389" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="17317:17324" ph="×" />
+            <marker date="1498502584029" expanded="true" signature="17864:18100" ph="..." />
+            <marker date="1498502584029" expanded="true" signature="17894:18072" ph="..." />
+            <marker date="1498502584029" expanded="false" signature="18000:18007" ph="×" />
+            <marker date="1498502584029" expanded="true" signature="18281:18295" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_passengergruzaPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="20" />
+          <folding>
+            <marker date="1498502584183" expanded="true" signature="426:458" ph="..." />
+            <marker date="1498502584183" expanded="true" signature="1833:1892" ph="SELECT * FRO... movers_cargo_passengers" />
+            <marker date="1498502584183" expanded="true" signature="4096:4177" ph="SELECT `coun... country" />
+            <marker date="1498502584183" expanded="true" signature="4599:4680" ph="SELECT `coun... country" />
+            <marker date="1498502584183" expanded="true" signature="6962:6988" ph="..." />
+            <marker date="1498502584183" expanded="false" signature="7250:7264" ph="..." />
+            <marker date="1498502584183" expanded="true" signature="7265:7587" ph="..." />
+            <marker date="1498502584183" expanded="true" signature="7276:7583" ph="..." />
+            <marker date="1498502584183" expanded="true" signature="7285:7571" ph="..." />
+            <marker date="1498502584183" expanded="false" signature="7303:7312" ph="..." />
+            <marker date="1498502584183" expanded="false" signature="7352:7361" ph="..." />
+            <marker date="1498502584183" expanded="false" signature="7401:7410" ph="..." />
+            <marker date="1498502584183" expanded="false" signature="7450:7459" ph="..." />
+            <marker date="1498502584183" expanded="false" signature="7499:7508" ph="..." />
+            <marker date="1498502584183" expanded="true" signature="8314:8365" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498502584183" expanded="true" signature="9571:9659" ph="SELECT `coun... country" />
+            <marker date="1498502584183" expanded="true" signature="9765:9853" ph="SELECT `coun... country" />
+            <marker date="1498502584183" expanded="true" signature="9959:10062" ph="SELECT `cont... container_type_rails" />
+            <marker date="1498502584183" expanded="true" signature="10159:10257" ph="SELECT `tran... transport_type_passengers" />
+            <marker date="1498502584183" expanded="true" signature="10472:10556" ph="SELECT `city... city" />
+            <marker date="1498502584183" expanded="true" signature="10912:10996" ph="SELECT `city... city" />
+            <marker date="1498502584183" expanded="true" signature="11216:11579" ph="..." />
+            <marker date="1498502584183" expanded="false" signature="11233:11242" ph="..." />
+            <marker date="1498502584183" expanded="false" signature="11309:11319" ph="..." />
+            <marker date="1498502584183" expanded="false" signature="11371:11380" ph="..." />
+            <marker date="1498502584183" expanded="false" signature="11447:11457" ph="..." />
+            <marker date="1498502584183" expanded="false" signature="11511:11520" ph="..." />
+            <marker date="1498502584183" expanded="false" signature="11568:11577" ph="..." />
+            <marker date="1498502584183" expanded="false" signature="11781:11808" ph="..." />
+            <marker date="1498502584183" expanded="true" signature="12156:12182" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_PASSENGERtransport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="318" column="55" selection-start-line="318" selection-start-column="32" selection-end-line="318" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <marker date="1498504361153" expanded="true" signature="280:312" ph="..." />
+            <marker date="1498504361153" expanded="true" signature="1697:1756" ph="SELECT * FRO... movers_order_passengers" />
+            <marker date="1498504361153" expanded="true" signature="3439:3520" ph="SELECT `coun... country" />
+            <marker date="1498504361153" expanded="true" signature="3958:4039" ph="SELECT `coun... country" />
+            <marker date="1498504361153" expanded="true" signature="8713:8739" ph="..." />
+            <marker date="1498504361153" expanded="true" signature="8992:9006" ph="..." />
+            <marker date="1498504361153" expanded="true" signature="9007:9334" ph="..." />
+            <marker date="1498504361153" expanded="true" signature="9020:9328" ph="..." />
+            <marker date="1498504361153" expanded="true" signature="9031:9314" ph="..." />
+            <marker date="1498504361153" expanded="false" signature="9051:9060" ph="..." />
+            <marker date="1498504361153" expanded="false" signature="9099:9108" ph="..." />
+            <marker date="1498504361153" expanded="false" signature="9147:9156" ph="..." />
+            <marker date="1498504361153" expanded="false" signature="9195:9204" ph="..." />
+            <marker date="1498504361153" expanded="false" signature="9243:9252" ph="..." />
+            <marker date="1498504361153" expanded="true" signature="10141:10192" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498504361153" expanded="true" signature="11501:11589" ph="SELECT `coun... country" />
+            <marker date="1498504361153" expanded="true" signature="11693:11781" ph="SELECT `coun... country" />
+            <marker date="1498504361153" expanded="true" signature="11885:11983" ph="SELECT `tran... transport_type_passengers" />
+            <marker date="1498504361153" expanded="true" signature="12199:12283" ph="SELECT `city... city" />
+            <marker date="1498504361153" expanded="true" signature="12620:12704" ph="SELECT `city... city" />
+            <marker date="1498504361153" expanded="true" signature="12899:13503" ph="..." />
+            <marker date="1498504361153" expanded="false" signature="12918:12927" ph="..." />
+            <marker date="1498504361153" expanded="false" signature="12994:13004" ph="..." />
+            <marker date="1498504361153" expanded="false" signature="13056:13065" ph="..." />
+            <marker date="1498504361153" expanded="false" signature="13132:13142" ph="..." />
+            <marker date="1498504361153" expanded="false" signature="13194:13203" ph="..." />
+            <marker date="1498504361153" expanded="false" signature="13278:13287" ph="..." />
+            <marker date="1498504361153" expanded="false" signature="13339:13348" ph="..." />
+            <marker date="1498504361153" expanded="true" signature="13717:13743" ph="..." />
+            <marker date="1498504361153" expanded="true" signature="16877:17113" ph="..." />
+            <marker date="1498504361153" expanded="true" signature="16907:17085" ph="..." />
+            <marker date="1498504361153" expanded="false" signature="17013:17020" ph="×" />
+            <marker date="1498504361153" expanded="true" signature="17560:17796" ph="..." />
+            <marker date="1498504361153" expanded="true" signature="17590:17768" ph="..." />
+            <marker date="1498504361153" expanded="false" signature="17696:17703" ph="×" />
+            <marker date="1498504361153" expanded="true" signature="17978:17992" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_passengertransportPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="836" column="2" selection-start-line="836" selection-start-column="0" selection-end-line="836" selection-end-column="2" />
+          <folding>
+            <marker date="1498502584056" expanded="true" signature="436:468" ph="..." />
+            <marker date="1498502584056" expanded="true" signature="1846:1905" ph="SELECT * FRO... movers_order_passengers" />
+            <marker date="1498502584056" expanded="true" signature="3888:3969" ph="SELECT `coun... country" />
+            <marker date="1498502584056" expanded="true" signature="4407:4488" ph="SELECT `coun... country" />
+            <marker date="1498502584056" expanded="true" signature="6690:6716" ph="..." />
+            <marker date="1498502584056" expanded="true" signature="6974:6988" ph="..." />
+            <marker date="1498502584056" expanded="true" signature="6989:7316" ph="..." />
+            <marker date="1498502584056" expanded="true" signature="7002:7310" ph="..." />
+            <marker date="1498502584056" expanded="true" signature="7013:7296" ph="..." />
+            <marker date="1498502584056" expanded="false" signature="7033:7042" ph="..." />
+            <marker date="1498502584056" expanded="false" signature="7081:7090" ph="..." />
+            <marker date="1498502584056" expanded="false" signature="7129:7138" ph="..." />
+            <marker date="1498502584056" expanded="false" signature="7177:7186" ph="..." />
+            <marker date="1498502584056" expanded="false" signature="7225:7234" ph="..." />
+            <marker date="1498502584056" expanded="true" signature="8123:8174" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498502584056" expanded="true" signature="9483:9571" ph="SELECT `coun... country" />
+            <marker date="1498502584056" expanded="true" signature="9675:9763" ph="SELECT `coun... country" />
+            <marker date="1498502584056" expanded="true" signature="9867:9965" ph="SELECT `tran... transport_type_passengers" />
+            <marker date="1498502584056" expanded="true" signature="10181:10265" ph="SELECT `city... city" />
+            <marker date="1498502584056" expanded="true" signature="10602:10686" ph="SELECT `city... city" />
+            <marker date="1498502584056" expanded="true" signature="10881:11485" ph="..." />
+            <marker date="1498502584056" expanded="false" signature="10900:10909" ph="..." />
+            <marker date="1498502584056" expanded="false" signature="10976:10986" ph="..." />
+            <marker date="1498502584056" expanded="false" signature="11038:11047" ph="..." />
+            <marker date="1498502584056" expanded="false" signature="11114:11124" ph="..." />
+            <marker date="1498502584056" expanded="false" signature="11176:11185" ph="..." />
+            <marker date="1498502584056" expanded="false" signature="11260:11269" ph="..." />
+            <marker date="1498502584056" expanded="false" signature="11321:11330" ph="..." />
+            <marker date="1498502584056" expanded="true" signature="11699:11725" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_PLAINgruza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="130" column="55" selection-start-line="130" selection-start-column="55" selection-end-line="130" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <marker date="1498504361088" expanded="true" signature="257:289" ph="..." />
+            <marker date="1498504361088" expanded="true" signature="1645:1693" ph="SELECT * FRO... movers_cargo" />
+            <marker date="1498504361088" expanded="true" signature="3395:3476" ph="SELECT `coun... country" />
+            <marker date="1498504361088" expanded="true" signature="3898:3979" ph="SELECT `coun... country" />
+            <marker date="1498504361088" expanded="true" signature="7942:7968" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="8229:8243" ph="..." />
+            <marker date="1498504361088" expanded="true" signature="8244:8615" ph="..." />
+            <marker date="1498504361088" expanded="true" signature="8255:8611" ph="..." />
+            <marker date="1498504361088" expanded="true" signature="8264:8599" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="8282:8291" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="8331:8340" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="8380:8389" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="8429:8438" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="8478:8487" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="8527:8536" ph="..." />
+            <marker date="1498504361088" expanded="true" signature="9342:9393" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498504361088" expanded="true" signature="10599:10687" ph="SELECT `coun... country" />
+            <marker date="1498504361088" expanded="true" signature="10791:10879" ph="SELECT `coun... country" />
+            <marker date="1498504361088" expanded="true" signature="11097:11181" ph="SELECT `city... city" />
+            <marker date="1498504361088" expanded="true" signature="11535:11619" ph="SELECT `city... city" />
+            <marker date="1498504361088" expanded="true" signature="11866:11953" ph="SELECT `tran... transport_type" />
+            <marker date="1498504361088" expanded="true" signature="12052:12137" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498504361088" expanded="true" signature="12222:12301" ph="SELECT `carg... cargo_type" />
+            <marker date="1498504361088" expanded="true" signature="12363:12720" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="12380:12389" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="12456:12466" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="12518:12527" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="12594:12604" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="12658:12667" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="12709:12718" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="12923:12932" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="12995:13022" ph="..." />
+            <marker date="1498504361088" expanded="true" signature="13380:13406" ph="..." />
+            <marker date="1498504361088" expanded="true" signature="16666:16902" ph="..." />
+            <marker date="1498504361088" expanded="true" signature="16696:16874" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="16802:16809" ph="×" />
+            <marker date="1498504361088" expanded="true" signature="17350:17586" ph="..." />
+            <marker date="1498504361088" expanded="true" signature="17380:17558" ph="..." />
+            <marker date="1498504361088" expanded="false" signature="17486:17493" ph="×" />
+            <marker date="1498504361088" expanded="true" signature="17763:17777" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_plaingruzaPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="274" column="28" selection-start-line="274" selection-start-column="26" selection-end-line="274" selection-end-column="28" />
+          <folding>
+            <marker date="1498502584131" expanded="true" signature="422:454" ph="..." />
+            <marker date="1498502584131" expanded="true" signature="1812:1840" ph="SELECT * FRO... movers_cargo" />
+            <marker date="1498502584131" expanded="true" signature="3560:3641" ph="SELECT `coun... country" />
+            <marker date="1498502584131" expanded="true" signature="4063:4144" ph="SELECT `coun... country" />
+            <marker date="1498502584131" expanded="true" signature="6391:6417" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="6678:6692" ph="..." />
+            <marker date="1498502584131" expanded="true" signature="6693:7064" ph="..." />
+            <marker date="1498502584131" expanded="true" signature="6704:7060" ph="..." />
+            <marker date="1498502584131" expanded="true" signature="6713:7048" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="6731:6740" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="6780:6789" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="6829:6838" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="6878:6887" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="6927:6936" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="6976:6985" ph="..." />
+            <marker date="1498502584131" expanded="true" signature="7791:7842" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498502584131" expanded="true" signature="9048:9136" ph="SELECT `coun... country" />
+            <marker date="1498502584131" expanded="true" signature="9240:9328" ph="SELECT `coun... country" />
+            <marker date="1498502584131" expanded="true" signature="9546:9630" ph="SELECT `city... city" />
+            <marker date="1498502584131" expanded="true" signature="9984:10068" ph="SELECT `city... city" />
+            <marker date="1498502584131" expanded="true" signature="10315:10402" ph="SELECT `tran... transport_type" />
+            <marker date="1498502584131" expanded="true" signature="10501:10586" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498502584131" expanded="true" signature="10671:10750" ph="SELECT `carg... cargo_type" />
+            <marker date="1498502584131" expanded="true" signature="10811:11168" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="10828:10837" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="10904:10914" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="10966:10975" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="11042:11052" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="11106:11115" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="11157:11166" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="11371:11380" ph="..." />
+            <marker date="1498502584131" expanded="false" signature="11443:11470" ph="..." />
+            <marker date="1498502584131" expanded="true" signature="11828:11854" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_PLAINtransport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="315" column="55" selection-start-line="315" selection-start-column="55" selection-end-line="315" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <marker date="1498504360894" expanded="true" signature="280:312" ph="..." />
+            <marker date="1498504360894" expanded="true" signature="1492:1520" ph="SELECT * FRO... movers_order" />
+            <marker date="1498504360894" expanded="true" signature="3285:3366" ph="SELECT `coun... country" />
+            <marker date="1498504360894" expanded="true" signature="3804:3885" ph="SELECT `coun... country" />
+            <marker date="1498504360894" expanded="true" signature="7820:7846" ph="..." />
+            <marker date="1498504360894" expanded="true" signature="8102:8116" ph="..." />
+            <marker date="1498504360894" expanded="true" signature="8117:8444" ph="..." />
+            <marker date="1498504360894" expanded="true" signature="8130:8438" ph="..." />
+            <marker date="1498504360894" expanded="true" signature="8141:8424" ph="..." />
+            <marker date="1498504360894" expanded="false" signature="8161:8170" ph="..." />
+            <marker date="1498504360894" expanded="false" signature="8209:8218" ph="..." />
+            <marker date="1498504360894" expanded="false" signature="8257:8266" ph="..." />
+            <marker date="1498504360894" expanded="false" signature="8305:8314" ph="..." />
+            <marker date="1498504360894" expanded="false" signature="8353:8362" ph="..." />
+            <marker date="1498504360894" expanded="true" signature="9251:9302" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498504360894" expanded="true" signature="10611:10699" ph="SELECT `coun... country" />
+            <marker date="1498504360894" expanded="true" signature="10803:10891" ph="SELECT `coun... country" />
+            <marker date="1498504360894" expanded="true" signature="10995:11082" ph="SELECT `tran... transport_type" />
+            <marker date="1498504360894" expanded="true" signature="11179:11264" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498504360894" expanded="true" signature="11467:11551" ph="SELECT `city... city" />
+            <marker date="1498504360894" expanded="true" signature="11888:11972" ph="SELECT `city... city" />
+            <marker date="1498504360894" expanded="true" signature="12165:12828" ph="..." />
+            <marker date="1498504360894" expanded="false" signature="12184:12193" ph="..." />
+            <marker date="1498504360894" expanded="false" signature="12260:12270" ph="..." />
+            <marker date="1498504360894" expanded="false" signature="12322:12331" ph="..." />
+            <marker date="1498504360894" expanded="false" signature="12398:12408" ph="..." />
+            <marker date="1498504360894" expanded="false" signature="12460:12469" ph="..." />
+            <marker date="1498504360894" expanded="false" signature="12544:12572" ph="..." />
+            <marker date="1498504360894" expanded="false" signature="12638:12647" ph="..." />
+            <marker date="1498504360894" expanded="true" signature="13045:13071" ph="..." />
+            <marker date="1498504360894" expanded="true" signature="16253:16489" ph="..." />
+            <marker date="1498504360894" expanded="true" signature="16283:16461" ph="..." />
+            <marker date="1498504360894" expanded="false" signature="16389:16396" ph="×" />
+            <marker date="1498504360894" expanded="true" signature="16937:17173" ph="..." />
+            <marker date="1498504360894" expanded="true" signature="16967:17145" ph="..." />
+            <marker date="1498504360894" expanded="false" signature="17073:17080" ph="×" />
+            <marker date="1498504360894" expanded="true" signature="17353:17367" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_plaintransportPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="842" column="2" selection-start-line="842" selection-start-column="0" selection-end-line="842" selection-end-column="2" />
+          <folding>
+            <marker date="1498502756288" expanded="true" signature="435:467" ph="..." />
+            <marker date="1498502756288" expanded="true" signature="1841:1869" ph="SELECT * FRO... movers_order" />
+            <marker date="1498502756288" expanded="true" signature="3468:3549" ph="SELECT `coun... country" />
+            <marker date="1498502756288" expanded="true" signature="3987:4068" ph="SELECT `coun... country" />
+            <marker date="1498502756288" expanded="true" signature="6277:6303" ph="..." />
+            <marker date="1498502756288" expanded="true" signature="6561:6575" ph="..." />
+            <marker date="1498502756288" expanded="true" signature="6576:6903" ph="..." />
+            <marker date="1498502756288" expanded="true" signature="6589:6897" ph="..." />
+            <marker date="1498502756288" expanded="true" signature="6600:6883" ph="..." />
+            <marker date="1498502756288" expanded="false" signature="6620:6629" ph="..." />
+            <marker date="1498502756288" expanded="false" signature="6668:6677" ph="..." />
+            <marker date="1498502756288" expanded="false" signature="6716:6725" ph="..." />
+            <marker date="1498502756288" expanded="false" signature="6764:6773" ph="..." />
+            <marker date="1498502756288" expanded="false" signature="6812:6821" ph="..." />
+            <marker date="1498502756288" expanded="true" signature="7710:7761" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498502756288" expanded="true" signature="9070:9158" ph="SELECT `coun... country" />
+            <marker date="1498502756288" expanded="true" signature="9262:9350" ph="SELECT `coun... country" />
+            <marker date="1498502756288" expanded="true" signature="9454:9541" ph="SELECT `tran... transport_type" />
+            <marker date="1498502756288" expanded="true" signature="9638:9723" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498502756288" expanded="true" signature="9926:10010" ph="SELECT `city... city" />
+            <marker date="1498502756288" expanded="true" signature="10347:10431" ph="SELECT `city... city" />
+            <marker date="1498502756288" expanded="true" signature="10624:11287" ph="..." />
+            <marker date="1498502756288" expanded="false" signature="10643:10652" ph="..." />
+            <marker date="1498502756288" expanded="false" signature="10719:10729" ph="..." />
+            <marker date="1498502756288" expanded="false" signature="10781:10790" ph="..." />
+            <marker date="1498502756288" expanded="false" signature="10857:10867" ph="..." />
+            <marker date="1498502756288" expanded="false" signature="10919:10928" ph="..." />
+            <marker date="1498502756288" expanded="false" signature="11003:11031" ph="..." />
+            <marker date="1498502756288" expanded="false" signature="11097:11106" ph="..." />
+            <marker date="1498502756288" expanded="true" signature="11501:11527" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_POSTgruza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="136" column="55" selection-start-line="136" selection-start-column="55" selection-end-line="136" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <marker date="1498504360932" expanded="true" signature="257:289" ph="..." />
+            <marker date="1498504360932" expanded="true" signature="1646:1698" ph="SELECT * FRO... movers_cargo_post" />
+            <marker date="1498504360932" expanded="true" signature="3338:3419" ph="SELECT `coun... country" />
+            <marker date="1498504360932" expanded="true" signature="3841:3922" ph="SELECT `coun... country" />
+            <marker date="1498504360932" expanded="true" signature="8614:8640" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="8899:8913" ph="..." />
+            <marker date="1498504360932" expanded="true" signature="8914:9285" ph="..." />
+            <marker date="1498504360932" expanded="true" signature="8925:9281" ph="..." />
+            <marker date="1498504360932" expanded="true" signature="8934:9269" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="8952:8961" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="9001:9010" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="9050:9059" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="9099:9108" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="9148:9157" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="9197:9206" ph="..." />
+            <marker date="1498504360932" expanded="true" signature="10012:10063" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498504360932" expanded="true" signature="11269:11357" ph="SELECT `coun... country" />
+            <marker date="1498504360932" expanded="true" signature="11463:11551" ph="SELECT `coun... country" />
+            <marker date="1498504360932" expanded="true" signature="11663:11766" ph="SELECT `cont... container_type_rails" />
+            <marker date="1498504360932" expanded="true" signature="11866:11958" ph="SELECT `tran... transport_type_post" />
+            <marker date="1498504360932" expanded="true" signature="12055:12145" ph="SELECT `carg... cargo_volume_post" />
+            <marker date="1498504360932" expanded="true" signature="12353:12437" ph="SELECT `city... city" />
+            <marker date="1498504360932" expanded="true" signature="12797:12881" ph="SELECT `city... city" />
+            <marker date="1498504360932" expanded="true" signature="13116:13200" ph="SELECT `carg... cargo_type_post" />
+            <marker date="1498504360932" expanded="true" signature="13264:13627" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="13281:13290" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="13357:13367" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="13419:13428" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="13495:13505" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="13559:13568" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="13616:13625" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="13830:13839" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="13902:13929" ph="..." />
+            <marker date="1498504360932" expanded="true" signature="14286:14312" ph="..." />
+            <marker date="1498504360932" expanded="true" signature="17499:17735" ph="..." />
+            <marker date="1498504360932" expanded="true" signature="17529:17707" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="17635:17642" ph="×" />
+            <marker date="1498504360932" expanded="true" signature="18148:18384" ph="..." />
+            <marker date="1498504360932" expanded="true" signature="18178:18356" ph="..." />
+            <marker date="1498504360932" expanded="false" signature="18284:18291" ph="×" />
+            <marker date="1498504360932" expanded="true" signature="18560:18574" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_postgruzaPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="473" column="2" selection-start-line="473" selection-start-column="0" selection-end-line="473" selection-end-column="2" />
+          <folding>
+            <marker date="1498502756693" expanded="true" signature="426:458" ph="..." />
+            <marker date="1498502756693" expanded="true" signature="1815:1867" ph="SELECT * FRO... movers_cargo_post" />
+            <marker date="1498502756693" expanded="true" signature="4071:4152" ph="SELECT `coun... country" />
+            <marker date="1498502756693" expanded="true" signature="4574:4655" ph="SELECT `coun... country" />
+            <marker date="1498502756693" expanded="true" signature="6915:6941" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="7200:7214" ph="..." />
+            <marker date="1498502756693" expanded="true" signature="7215:7586" ph="..." />
+            <marker date="1498502756693" expanded="true" signature="7226:7582" ph="..." />
+            <marker date="1498502756693" expanded="true" signature="7235:7570" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="7253:7262" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="7302:7311" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="7351:7360" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="7400:7409" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="7449:7458" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="7498:7507" ph="..." />
+            <marker date="1498502756693" expanded="true" signature="8313:8364" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498502756693" expanded="true" signature="9570:9658" ph="SELECT `coun... country" />
+            <marker date="1498502756693" expanded="true" signature="9764:9852" ph="SELECT `coun... country" />
+            <marker date="1498502756693" expanded="true" signature="9958:10061" ph="SELECT `cont... container_type_rails" />
+            <marker date="1498502756693" expanded="true" signature="10158:10250" ph="SELECT `tran... transport_type_post" />
+            <marker date="1498502756693" expanded="true" signature="10347:10437" ph="SELECT `carg... cargo_volume_post" />
+            <marker date="1498502756693" expanded="true" signature="10641:10725" ph="SELECT `city... city" />
+            <marker date="1498502756693" expanded="true" signature="11081:11165" ph="SELECT `city... city" />
+            <marker date="1498502756693" expanded="true" signature="11400:11484" ph="SELECT `carg... cargo_type_post" />
+            <marker date="1498502756693" expanded="true" signature="11548:11911" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="11565:11574" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="11641:11651" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="11703:11712" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="11779:11789" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="11843:11852" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="11900:11909" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="12114:12123" ph="..." />
+            <marker date="1498502756693" expanded="false" signature="12186:12213" ph="..." />
+            <marker date="1498502756693" expanded="true" signature="12570:12596" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_POSTtransport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="318" column="55" selection-start-line="318" selection-start-column="55" selection-end-line="318" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <marker date="1498504360795" expanded="true" signature="280:312" ph="..." />
+            <marker date="1498504360795" expanded="true" signature="1683:1735" ph="SELECT * FRO... movers_order_post" />
+            <marker date="1498504360795" expanded="true" signature="3418:3499" ph="SELECT `coun... country" />
+            <marker date="1498504360795" expanded="true" signature="3937:4018" ph="SELECT `coun... country" />
+            <marker date="1498504360795" expanded="true" signature="8684:8710" ph="..." />
+            <marker date="1498504360795" expanded="true" signature="8960:8974" ph="..." />
+            <marker date="1498504360795" expanded="true" signature="8975:9302" ph="..." />
+            <marker date="1498504360795" expanded="true" signature="8988:9296" ph="..." />
+            <marker date="1498504360795" expanded="true" signature="8999:9282" ph="..." />
+            <marker date="1498504360795" expanded="false" signature="9019:9028" ph="..." />
+            <marker date="1498504360795" expanded="false" signature="9067:9076" ph="..." />
+            <marker date="1498504360795" expanded="false" signature="9115:9124" ph="..." />
+            <marker date="1498504360795" expanded="false" signature="9163:9172" ph="..." />
+            <marker date="1498504360795" expanded="false" signature="9211:9220" ph="..." />
+            <marker date="1498504360795" expanded="true" signature="10109:10160" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498504360795" expanded="true" signature="11469:11557" ph="SELECT `coun... country" />
+            <marker date="1498504360795" expanded="true" signature="11661:11749" ph="SELECT `coun... country" />
+            <marker date="1498504360795" expanded="true" signature="11853:11945" ph="SELECT `tran... transport_type_post" />
+            <marker date="1498504360795" expanded="true" signature="12042:12132" ph="SELECT `carg... cargo_volume_post" />
+            <marker date="1498504360795" expanded="true" signature="12335:12419" ph="SELECT `city... city" />
+            <marker date="1498504360795" expanded="true" signature="12756:12840" ph="SELECT `city... city" />
+            <marker date="1498504360795" expanded="true" signature="13033:13695" ph="..." />
+            <marker date="1498504360795" expanded="false" signature="13052:13061" ph="..." />
+            <marker date="1498504360795" expanded="false" signature="13128:13138" ph="..." />
+            <marker date="1498504360795" expanded="false" signature="13190:13199" ph="..." />
+            <marker date="1498504360795" expanded="false" signature="13266:13276" ph="..." />
+            <marker date="1498504360795" expanded="false" signature="13328:13337" ph="..." />
+            <marker date="1498504360795" expanded="false" signature="13412:13440" ph="..." />
+            <marker date="1498504360795" expanded="false" signature="13506:13515" ph="..." />
+            <marker date="1498504360795" expanded="true" signature="13912:13938" ph="..." />
+            <marker date="1498504360795" expanded="true" signature="17051:17287" ph="..." />
+            <marker date="1498504360795" expanded="true" signature="17081:17259" ph="..." />
+            <marker date="1498504360795" expanded="false" signature="17187:17194" ph="×" />
+            <marker date="1498504360795" expanded="true" signature="17700:17936" ph="..." />
+            <marker date="1498504360795" expanded="true" signature="17730:17908" ph="..." />
+            <marker date="1498504360795" expanded="false" signature="17836:17843" ph="×" />
+            <marker date="1498504360795" expanded="true" signature="18114:18128" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_posttransportPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="834" column="2" selection-start-line="834" selection-start-column="0" selection-end-line="834" selection-end-column="2" />
+          <folding>
+            <marker date="1498502756399" expanded="true" signature="437:469" ph="..." />
+            <marker date="1498502756399" expanded="true" signature="1840:1892" ph="SELECT * FRO... movers_order_post" />
+            <marker date="1498502756399" expanded="true" signature="4149:4230" ph="SELECT `coun... country" />
+            <marker date="1498502756399" expanded="true" signature="4668:4749" ph="SELECT `coun... country" />
+            <marker date="1498502756399" expanded="true" signature="6937:6963" ph="..." />
+            <marker date="1498502756399" expanded="true" signature="7214:7228" ph="..." />
+            <marker date="1498502756399" expanded="true" signature="7229:7556" ph="..." />
+            <marker date="1498502756399" expanded="true" signature="7242:7550" ph="..." />
+            <marker date="1498502756399" expanded="true" signature="7253:7536" ph="..." />
+            <marker date="1498502756399" expanded="false" signature="7273:7282" ph="..." />
+            <marker date="1498502756399" expanded="false" signature="7321:7330" ph="..." />
+            <marker date="1498502756399" expanded="false" signature="7369:7378" ph="..." />
+            <marker date="1498502756399" expanded="false" signature="7417:7426" ph="..." />
+            <marker date="1498502756399" expanded="false" signature="7465:7474" ph="..." />
+            <marker date="1498502756399" expanded="true" signature="8363:8414" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498502756399" expanded="true" signature="9723:9811" ph="SELECT `coun... country" />
+            <marker date="1498502756399" expanded="true" signature="9915:10003" ph="SELECT `coun... country" />
+            <marker date="1498502756399" expanded="true" signature="10107:10199" ph="SELECT `tran... transport_type_post" />
+            <marker date="1498502756399" expanded="true" signature="10296:10386" ph="SELECT `carg... cargo_volume_post" />
+            <marker date="1498502756399" expanded="true" signature="10589:10673" ph="SELECT `city... city" />
+            <marker date="1498502756399" expanded="true" signature="11010:11094" ph="SELECT `city... city" />
+            <marker date="1498502756399" expanded="true" signature="11287:11949" ph="..." />
+            <marker date="1498502756399" expanded="false" signature="11306:11315" ph="..." />
+            <marker date="1498502756399" expanded="false" signature="11382:11392" ph="..." />
+            <marker date="1498502756399" expanded="false" signature="11444:11453" ph="..." />
+            <marker date="1498502756399" expanded="false" signature="11520:11530" ph="..." />
+            <marker date="1498502756399" expanded="false" signature="11582:11591" ph="..." />
+            <marker date="1498502756399" expanded="false" signature="11666:11694" ph="..." />
+            <marker date="1498502756399" expanded="false" signature="11760:11769" ph="..." />
+            <marker date="1498502756399" expanded="true" signature="12166:12192" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_SEAgruza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="130" column="55" selection-start-line="130" selection-start-column="55" selection-end-line="130" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <marker date="1498504361014" expanded="true" signature="257:289" ph="..." />
+            <marker date="1498504361014" expanded="true" signature="1642:1670" ph="SELECT * FRO... movers_cargo" />
+            <marker date="1498504361014" expanded="true" signature="3390:3471" ph="SELECT `coun... country" />
+            <marker date="1498504361014" expanded="true" signature="3893:3974" ph="SELECT `coun... country" />
+            <marker date="1498504361014" expanded="true" signature="7936:7962" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="8222:8236" ph="..." />
+            <marker date="1498504361014" expanded="true" signature="8237:8608" ph="..." />
+            <marker date="1498504361014" expanded="true" signature="8248:8604" ph="..." />
+            <marker date="1498504361014" expanded="true" signature="8257:8592" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="8275:8284" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="8324:8333" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="8373:8382" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="8422:8431" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="8471:8480" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="8520:8529" ph="..." />
+            <marker date="1498504361014" expanded="true" signature="9335:9386" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498504361014" expanded="true" signature="10592:10680" ph="SELECT `coun... country" />
+            <marker date="1498504361014" expanded="true" signature="10784:10872" ph="SELECT `coun... country" />
+            <marker date="1498504361014" expanded="true" signature="11090:11174" ph="SELECT `city... city" />
+            <marker date="1498504361014" expanded="true" signature="11528:11612" ph="SELECT `city... city" />
+            <marker date="1498504361014" expanded="true" signature="11859:11946" ph="SELECT `tran... transport_type" />
+            <marker date="1498504361014" expanded="true" signature="12045:12130" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498504361014" expanded="true" signature="12215:12294" ph="SELECT `carg... cargo_type" />
+            <marker date="1498504361014" expanded="true" signature="12356:13029" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="12373:12382" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="12449:12459" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="12511:12520" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="12587:12597" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="12651:12660" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="12702:12711" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="12787:12796" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="12859:12886" ph="..." />
+            <marker date="1498504361014" expanded="true" signature="13242:13268" ph="..." />
+            <marker date="1498504361014" expanded="true" signature="16530:16766" ph="..." />
+            <marker date="1498504361014" expanded="true" signature="16560:16738" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="16666:16673" ph="×" />
+            <marker date="1498504361014" expanded="true" signature="17213:17449" ph="..." />
+            <marker date="1498504361014" expanded="true" signature="17243:17421" ph="..." />
+            <marker date="1498504361014" expanded="false" signature="17349:17356" ph="×" />
+            <marker date="1498504361014" expanded="true" signature="17624:17638" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_seagruzaPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="461" column="2" selection-start-line="461" selection-start-column="0" selection-end-line="461" selection-end-column="2" />
+          <folding>
+            <marker date="1498502406183" expanded="true" signature="422:454" ph="..." />
+            <marker date="1498502406183" expanded="true" signature="1807:1835" ph="SELECT * FRO... movers_cargo" />
+            <marker date="1498502406183" expanded="true" signature="3389:3470" ph="SELECT `coun... country" />
+            <marker date="1498502406183" expanded="true" signature="3892:3973" ph="SELECT `coun... country" />
+            <marker date="1498502406183" expanded="true" signature="6248:6262" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="6461:6475" ph="..." />
+            <marker date="1498502406183" expanded="true" signature="6476:6847" ph="..." />
+            <marker date="1498502406183" expanded="true" signature="6487:6843" ph="..." />
+            <marker date="1498502406183" expanded="true" signature="6496:6831" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="6514:6523" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="6563:6572" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="6612:6621" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="6661:6670" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="6710:6719" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="6759:6768" ph="..." />
+            <marker date="1498502406183" expanded="true" signature="7574:7625" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498502406183" expanded="true" signature="8831:8919" ph="SELECT `coun... country" />
+            <marker date="1498502406183" expanded="true" signature="9023:9111" ph="SELECT `coun... country" />
+            <marker date="1498502406183" expanded="true" signature="9329:9413" ph="SELECT `city... city" />
+            <marker date="1498502406183" expanded="true" signature="9767:9851" ph="SELECT `city... city" />
+            <marker date="1498502406183" expanded="true" signature="10098:10185" ph="SELECT `tran... transport_type" />
+            <marker date="1498502406183" expanded="true" signature="10284:10369" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498502406183" expanded="true" signature="10454:10533" ph="SELECT `carg... cargo_type" />
+            <marker date="1498502406183" expanded="true" signature="10595:11268" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="10612:10621" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="10688:10698" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="10750:10759" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="10826:10836" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="10890:10899" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="10941:10950" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="11026:11035" ph="..." />
+            <marker date="1498502406183" expanded="false" signature="11098:11125" ph="..." />
+            <marker date="1498502406183" expanded="true" signature="11481:11507" ph="..." />
+            <marker date="1498502406183" expanded="true" signature="11716:11729" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_SEAtransport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="317" column="55" selection-start-line="317" selection-start-column="55" selection-end-line="317" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <marker date="1498504361054" expanded="true" signature="280:312" ph="..." />
+            <marker date="1498504361054" expanded="true" signature="1678:1706" ph="SELECT * FRO... movers_order" />
+            <marker date="1498504361054" expanded="true" signature="3472:3553" ph="SELECT `coun... country" />
+            <marker date="1498504361054" expanded="true" signature="3991:4072" ph="SELECT `coun... country" />
+            <marker date="1498504361054" expanded="true" signature="8008:8034" ph="..." />
+            <marker date="1498504361054" expanded="true" signature="8284:8298" ph="..." />
+            <marker date="1498504361054" expanded="true" signature="8299:8626" ph="..." />
+            <marker date="1498504361054" expanded="true" signature="8312:8620" ph="..." />
+            <marker date="1498504361054" expanded="true" signature="8323:8606" ph="..." />
+            <marker date="1498504361054" expanded="false" signature="8343:8352" ph="..." />
+            <marker date="1498504361054" expanded="false" signature="8391:8400" ph="..." />
+            <marker date="1498504361054" expanded="false" signature="8439:8448" ph="..." />
+            <marker date="1498504361054" expanded="false" signature="8487:8496" ph="..." />
+            <marker date="1498504361054" expanded="false" signature="8535:8544" ph="..." />
+            <marker date="1498504361054" expanded="true" signature="9433:9484" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498504361054" expanded="true" signature="10793:10881" ph="SELECT `coun... country" />
+            <marker date="1498504361054" expanded="true" signature="10985:11073" ph="SELECT `coun... country" />
+            <marker date="1498504361054" expanded="true" signature="11177:11264" ph="SELECT `tran... transport_type" />
+            <marker date="1498504361054" expanded="true" signature="11361:11446" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498504361054" expanded="true" signature="11649:11733" ph="SELECT `city... city" />
+            <marker date="1498504361054" expanded="true" signature="12070:12154" ph="SELECT `city... city" />
+            <marker date="1498504361054" expanded="true" signature="12347:13008" ph="..." />
+            <marker date="1498504361054" expanded="false" signature="12366:12375" ph="..." />
+            <marker date="1498504361054" expanded="false" signature="12442:12452" ph="..." />
+            <marker date="1498504361054" expanded="false" signature="12504:12513" ph="..." />
+            <marker date="1498504361054" expanded="false" signature="12580:12590" ph="..." />
+            <marker date="1498504361054" expanded="false" signature="12642:12651" ph="..." />
+            <marker date="1498504361054" expanded="false" signature="12726:12754" ph="..." />
+            <marker date="1498504361054" expanded="false" signature="12820:12829" ph="..." />
+            <marker date="1498504361054" expanded="true" signature="13225:13251" ph="..." />
+            <marker date="1498504361054" expanded="true" signature="16434:16670" ph="..." />
+            <marker date="1498504361054" expanded="true" signature="16464:16642" ph="..." />
+            <marker date="1498504361054" expanded="false" signature="16570:16577" ph="×" />
+            <marker date="1498504361054" expanded="true" signature="17117:17353" ph="..." />
+            <marker date="1498504361054" expanded="true" signature="17147:17325" ph="..." />
+            <marker date="1498504361054" expanded="false" signature="17253:17260" ph="×" />
+            <marker date="1498504361054" expanded="true" signature="17531:17545" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_seatransportPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="842" column="2" selection-start-line="842" selection-start-column="0" selection-end-line="842" selection-end-column="2" />
+          <folding>
+            <marker date="1498502756773" expanded="true" signature="435:467" ph="..." />
+            <marker date="1498502756773" expanded="true" signature="1835:1863" ph="SELECT * FRO... movers_order" />
+            <marker date="1498502756773" expanded="true" signature="3462:3543" ph="SELECT `coun... country" />
+            <marker date="1498502756773" expanded="true" signature="3981:4062" ph="SELECT `coun... country" />
+            <marker date="1498502756773" expanded="true" signature="6271:6297" ph="..." />
+            <marker date="1498502756773" expanded="true" signature="6548:6562" ph="..." />
+            <marker date="1498502756773" expanded="true" signature="6563:6890" ph="..." />
+            <marker date="1498502756773" expanded="true" signature="6576:6884" ph="..." />
+            <marker date="1498502756773" expanded="true" signature="6587:6870" ph="..." />
+            <marker date="1498502756773" expanded="false" signature="6607:6616" ph="..." />
+            <marker date="1498502756773" expanded="false" signature="6655:6664" ph="..." />
+            <marker date="1498502756773" expanded="false" signature="6703:6712" ph="..." />
+            <marker date="1498502756773" expanded="false" signature="6751:6760" ph="..." />
+            <marker date="1498502756773" expanded="false" signature="6799:6808" ph="..." />
+            <marker date="1498502756773" expanded="true" signature="7697:7748" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498502756773" expanded="true" signature="9057:9145" ph="SELECT `coun... country" />
+            <marker date="1498502756773" expanded="true" signature="9249:9337" ph="SELECT `coun... country" />
+            <marker date="1498502756773" expanded="true" signature="9441:9528" ph="SELECT `tran... transport_type" />
+            <marker date="1498502756773" expanded="true" signature="9625:9710" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498502756773" expanded="true" signature="9913:9997" ph="SELECT `city... city" />
+            <marker date="1498502756773" expanded="true" signature="10334:10418" ph="SELECT `city... city" />
+            <marker date="1498502756773" expanded="true" signature="10611:11272" ph="..." />
+            <marker date="1498502756773" expanded="false" signature="10630:10639" ph="..." />
+            <marker date="1498502756773" expanded="false" signature="10706:10716" ph="..." />
+            <marker date="1498502756773" expanded="false" signature="10768:10777" ph="..." />
+            <marker date="1498502756773" expanded="false" signature="10844:10854" ph="..." />
+            <marker date="1498502756773" expanded="false" signature="10906:10915" ph="..." />
+            <marker date="1498502756773" expanded="false" signature="10990:11018" ph="..." />
+            <marker date="1498502756773" expanded="false" signature="11084:11093" ph="..." />
+            <marker date="1498502756773" expanded="true" signature="11489:11515" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_TRAINgruza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="132" column="55" selection-start-line="132" selection-start-column="55" selection-end-line="132" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <marker date="1498504360851" expanded="true" signature="257:289" ph="..." />
+            <marker date="1498504360851" expanded="true" signature="1653:1681" ph="SELECT * FRO... movers_cargo" />
+            <marker date="1498504360851" expanded="true" signature="3401:3482" ph="SELECT `coun... country" />
+            <marker date="1498504360851" expanded="true" signature="3904:3985" ph="SELECT `coun... country" />
+            <marker date="1498504360851" expanded="true" signature="7948:7974" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="8233:8247" ph="..." />
+            <marker date="1498504360851" expanded="true" signature="8248:8619" ph="..." />
+            <marker date="1498504360851" expanded="true" signature="8259:8615" ph="..." />
+            <marker date="1498504360851" expanded="true" signature="8268:8603" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="8286:8295" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="8335:8344" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="8384:8393" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="8433:8442" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="8482:8491" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="8531:8540" ph="..." />
+            <marker date="1498504360851" expanded="true" signature="9346:9397" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498504360851" expanded="true" signature="10603:10691" ph="SELECT `coun... country" />
+            <marker date="1498504360851" expanded="true" signature="10795:10883" ph="SELECT `coun... country" />
+            <marker date="1498504360851" expanded="true" signature="11101:11185" ph="SELECT `city... city" />
+            <marker date="1498504360851" expanded="true" signature="11539:11623" ph="SELECT `city... city" />
+            <marker date="1498504360851" expanded="true" signature="11870:11957" ph="SELECT `tran... transport_type" />
+            <marker date="1498504360851" expanded="true" signature="12056:12141" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498504360851" expanded="true" signature="12226:12305" ph="SELECT `carg... cargo_type" />
+            <marker date="1498504360851" expanded="true" signature="12365:12722" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="12382:12391" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="12458:12468" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="12520:12529" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="12596:12606" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="12660:12669" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="12711:12720" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="12925:12934" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="12997:13024" ph="..." />
+            <marker date="1498504360851" expanded="true" signature="13382:13408" ph="..." />
+            <marker date="1498504360851" expanded="true" signature="16669:16905" ph="..." />
+            <marker date="1498504360851" expanded="true" signature="16699:16877" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="16805:16812" ph="×" />
+            <marker date="1498504360851" expanded="true" signature="17354:17590" ph="..." />
+            <marker date="1498504360851" expanded="true" signature="17384:17562" ph="..." />
+            <marker date="1498504360851" expanded="false" signature="17490:17497" ph="×" />
+            <marker date="1498504360851" expanded="true" signature="17767:17781" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_traingruzaPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="468" column="2" selection-start-line="468" selection-start-column="0" selection-end-line="468" selection-end-column="2" />
+          <folding>
+            <marker date="1498502756131" expanded="true" signature="422:454" ph="..." />
+            <marker date="1498502756131" expanded="true" signature="1815:1843" ph="SELECT * FRO... movers_cargo" />
+            <marker date="1498502756131" expanded="true" signature="3767:3848" ph="SELECT `coun... country" />
+            <marker date="1498502756131" expanded="true" signature="4273:4354" ph="SELECT `coun... country" />
+            <marker date="1498502756131" expanded="true" signature="6610:6636" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="6895:6909" ph="..." />
+            <marker date="1498502756131" expanded="true" signature="6910:7281" ph="..." />
+            <marker date="1498502756131" expanded="true" signature="6921:7277" ph="..." />
+            <marker date="1498502756131" expanded="true" signature="6930:7265" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="6948:6957" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="6997:7006" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="7046:7055" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="7095:7104" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="7144:7153" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="7193:7202" ph="..." />
+            <marker date="1498502756131" expanded="true" signature="8008:8059" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498502756131" expanded="true" signature="9264:9352" ph="SELECT `coun... country" />
+            <marker date="1498502756131" expanded="true" signature="9456:9544" ph="SELECT `coun... country" />
+            <marker date="1498502756131" expanded="true" signature="9762:9846" ph="SELECT `city... city" />
+            <marker date="1498502756131" expanded="true" signature="10200:10284" ph="SELECT `city... city" />
+            <marker date="1498502756131" expanded="true" signature="10531:10618" ph="SELECT `tran... transport_type" />
+            <marker date="1498502756131" expanded="true" signature="10717:10802" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498502756131" expanded="true" signature="10887:10966" ph="SELECT `carg... cargo_type" />
+            <marker date="1498502756131" expanded="true" signature="11031:11388" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="11048:11057" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="11124:11134" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="11186:11195" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="11262:11272" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="11326:11335" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="11377:11386" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="11591:11600" ph="..." />
+            <marker date="1498502756131" expanded="false" signature="11663:11690" ph="..." />
+            <marker date="1498502756131" expanded="true" signature="12048:12074" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_TRAINtransport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="305" column="55" selection-start-line="305" selection-start-column="55" selection-end-line="305" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <marker date="1498504360976" expanded="true" signature="280:312" ph="..." />
+            <marker date="1498504360976" expanded="true" signature="1684:1712" ph="SELECT * FRO... movers_order" />
+            <marker date="1498504360976" expanded="true" signature="3478:3559" ph="SELECT `coun... country" />
+            <marker date="1498504360976" expanded="true" signature="3997:4078" ph="SELECT `coun... country" />
+            <marker date="1498504360976" expanded="true" signature="8000:8026" ph="..." />
+            <marker date="1498504360976" expanded="true" signature="8276:8290" ph="..." />
+            <marker date="1498504360976" expanded="true" signature="8291:8618" ph="..." />
+            <marker date="1498504360976" expanded="true" signature="8304:8612" ph="..." />
+            <marker date="1498504360976" expanded="true" signature="8315:8598" ph="..." />
+            <marker date="1498504360976" expanded="false" signature="8335:8344" ph="..." />
+            <marker date="1498504360976" expanded="false" signature="8383:8392" ph="..." />
+            <marker date="1498504360976" expanded="false" signature="8431:8440" ph="..." />
+            <marker date="1498504360976" expanded="false" signature="8479:8488" ph="..." />
+            <marker date="1498504360976" expanded="false" signature="8527:8536" ph="..." />
+            <marker date="1498504360976" expanded="true" signature="9425:9476" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498504360976" expanded="true" signature="10785:10873" ph="SELECT `coun... country" />
+            <marker date="1498504360976" expanded="true" signature="10977:11065" ph="SELECT `coun... country" />
+            <marker date="1498504360976" expanded="true" signature="11169:11256" ph="SELECT `tran... transport_type" />
+            <marker date="1498504360976" expanded="true" signature="11353:11438" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498504360976" expanded="true" signature="11640:11724" ph="SELECT `city... city" />
+            <marker date="1498504360976" expanded="true" signature="12061:12145" ph="SELECT `city... city" />
+            <marker date="1498504360976" expanded="true" signature="12339:13002" ph="..." />
+            <marker date="1498504360976" expanded="false" signature="12358:12367" ph="..." />
+            <marker date="1498504360976" expanded="false" signature="12434:12444" ph="..." />
+            <marker date="1498504360976" expanded="false" signature="12496:12505" ph="..." />
+            <marker date="1498504360976" expanded="false" signature="12572:12582" ph="..." />
+            <marker date="1498504360976" expanded="false" signature="12634:12643" ph="..." />
+            <marker date="1498504360976" expanded="false" signature="12718:12746" ph="..." />
+            <marker date="1498504360976" expanded="false" signature="12812:12821" ph="..." />
+            <marker date="1498504360976" expanded="true" signature="13219:13245" ph="..." />
+            <marker date="1498504360976" expanded="true" signature="16426:16662" ph="..." />
+            <marker date="1498504360976" expanded="true" signature="16456:16634" ph="..." />
+            <marker date="1498504360976" expanded="false" signature="16562:16569" ph="×" />
+            <marker date="1498504360976" expanded="true" signature="17112:17348" ph="..." />
+            <marker date="1498504360976" expanded="true" signature="17142:17320" ph="..." />
+            <marker date="1498504360976" expanded="false" signature="17248:17255" ph="×" />
+            <marker date="1498504360976" expanded="true" signature="17528:17542" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birja_traintransportPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="831" column="2" selection-start-line="831" selection-start-column="0" selection-end-line="831" selection-end-column="2" />
+          <folding>
+            <marker date="1498502756612" expanded="true" signature="436:468" ph="..." />
+            <marker date="1498502756612" expanded="true" signature="1834:1862" ph="SELECT * FRO... movers_order" />
+            <marker date="1498502756612" expanded="true" signature="3828:3909" ph="SELECT `coun... country" />
+            <marker date="1498502756612" expanded="true" signature="4347:4428" ph="SELECT `coun... country" />
+            <marker date="1498502756612" expanded="true" signature="6605:6631" ph="..." />
+            <marker date="1498502756612" expanded="true" signature="6882:6896" ph="..." />
+            <marker date="1498502756612" expanded="true" signature="6897:7224" ph="..." />
+            <marker date="1498502756612" expanded="true" signature="6910:7218" ph="..." />
+            <marker date="1498502756612" expanded="true" signature="6921:7204" ph="..." />
+            <marker date="1498502756612" expanded="false" signature="6941:6950" ph="..." />
+            <marker date="1498502756612" expanded="false" signature="6989:6998" ph="..." />
+            <marker date="1498502756612" expanded="false" signature="7037:7046" ph="..." />
+            <marker date="1498502756612" expanded="false" signature="7085:7094" ph="..." />
+            <marker date="1498502756612" expanded="false" signature="7133:7142" ph="..." />
+            <marker date="1498502756612" expanded="true" signature="8031:8082" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498502756612" expanded="true" signature="9391:9479" ph="SELECT `coun... country" />
+            <marker date="1498502756612" expanded="true" signature="9583:9671" ph="SELECT `coun... country" />
+            <marker date="1498502756612" expanded="true" signature="9775:9862" ph="SELECT `tran... transport_type" />
+            <marker date="1498502756612" expanded="true" signature="9959:10044" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498502756612" expanded="true" signature="10246:10330" ph="SELECT `city... city" />
+            <marker date="1498502756612" expanded="true" signature="10667:10751" ph="SELECT `city... city" />
+            <marker date="1498502756612" expanded="true" signature="10945:11608" ph="..." />
+            <marker date="1498502756612" expanded="false" signature="10964:10973" ph="..." />
+            <marker date="1498502756612" expanded="false" signature="11040:11050" ph="..." />
+            <marker date="1498502756612" expanded="false" signature="11102:11111" ph="..." />
+            <marker date="1498502756612" expanded="false" signature="11178:11188" ph="..." />
+            <marker date="1498502756612" expanded="false" signature="11240:11249" ph="..." />
+            <marker date="1498502756612" expanded="false" signature="11324:11352" ph="..." />
+            <marker date="1498502756612" expanded="false" signature="11418:11427" ph="..." />
+            <marker date="1498502756612" expanded="true" signature="11825:11851" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birjaMain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo/birjaPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="263" column="6" selection-start-line="263" selection-start-column="4" selection-end-line="263" selection-end-column="6" />
+          <folding>
+            <marker date="1498502756239" expanded="true" signature="421:453" ph="..." />
+            <marker date="1498502756239" expanded="true" signature="1901:1929" ph="SELECT * FRO... movers_order" />
+            <marker date="1498502756239" expanded="true" signature="3838:3919" ph="SELECT `coun... country" />
+            <marker date="1498502756239" expanded="true" signature="4336:4417" ph="SELECT `coun... country" />
+            <marker date="1498502756239" expanded="true" signature="6776:6802" ph="..." />
+            <marker date="1498502756239" expanded="true" signature="7056:7070" ph="..." />
+            <marker date="1498502756239" expanded="true" signature="7071:7382" ph="..." />
+            <marker date="1498502756239" expanded="true" signature="7081:7379" ph="..." />
+            <marker date="1498502756239" expanded="true" signature="7089:7368" ph="..." />
+            <marker date="1498502756239" expanded="false" signature="7106:7115" ph="..." />
+            <marker date="1498502756239" expanded="false" signature="7154:7163" ph="..." />
+            <marker date="1498502756239" expanded="false" signature="7202:7211" ph="..." />
+            <marker date="1498502756239" expanded="false" signature="7250:7259" ph="..." />
+            <marker date="1498502756239" expanded="false" signature="7298:7307" ph="..." />
+            <marker date="1498502756239" expanded="true" signature="8080:8131" ph="SELECT * FRO... movers_contact" />
+            <marker date="1498502756239" expanded="true" signature="9028:9116" ph="SELECT `coun... country" />
+            <marker date="1498502756239" expanded="true" signature="9220:9308" ph="SELECT `coun... country" />
+            <marker date="1498502756239" expanded="true" signature="9412:9499" ph="SELECT `tran... transport_type" />
+            <marker date="1498502756239" expanded="true" signature="9596:9681" ph="SELECT `carg... cargo_volume" />
+            <marker date="1498502756239" expanded="true" signature="9887:9971" ph="SELECT `city... city" />
+            <marker date="1498502756239" expanded="true" signature="10308:10392" ph="SELECT `city... city" />
+            <marker date="1498502756239" expanded="true" signature="10584:11239" ph="..." />
+            <marker date="1498502756239" expanded="false" signature="10600:10609" ph="..." />
+            <marker date="1498502756239" expanded="false" signature="10676:10686" ph="..." />
+            <marker date="1498502756239" expanded="false" signature="10738:10747" ph="..." />
+            <marker date="1498502756239" expanded="false" signature="10814:10824" ph="..." />
+            <marker date="1498502756239" expanded="false" signature="10876:10885" ph="..." />
+            <marker date="1498502756239" expanded="false" signature="10960:10988" ph="..." />
+            <marker date="1498502756239" expanded="false" signature="11054:11063" ph="..." />
+            <marker date="1498502756239" expanded="true" signature="11446:11472" ph="..." />
           </folding>
         </state>
       </provider>

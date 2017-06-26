@@ -473,8 +473,8 @@ $result = mysqli_query($db,$query);
 
 
 		echo '<div style="float:right;margin-top:1em">'.$page_.' '.$_GET['page'].' '.$from_.' '.$PagesCount.' </div>';
-		
-
+		echo Navigation(htmlspecialchars($_GET['page'],ENT_QUOTES),$PagesCount);
+		echo'</div>';
 		echo '<table cellpadding="0" cellspacing="0" border="0" id="table" class="sortable" style="margin-top:2em">
 
 

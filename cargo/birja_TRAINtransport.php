@@ -295,7 +295,7 @@ return $n;
 
     <label for="exampleInputName2"><?php if (LANG=='ru') echo'Страна погрузки';?><?php if (LANG=='ro') echo'Ţara de încărcare';?><?php if (LANG=='en') echo'Loading country';?></label>
 
-    <select class="form-control" id="country_from" name="country_from"><option value=""><?php if (LANG=='ru') echo'Выберите страну погрузки</option><option value="">Все страны';?><?php if (LANG=='ro') echo'Selectați țara</option><option value="">Toate țările';?><?php if (LANG=='en') echo'Select loading country</option><option value="">All countries';?></option><?php echo $countries; ?></select>
+    <select class="form-control" style="padding: 0px;"  id="country_from" name="country_from"><option value=""><?php if (LANG=='ru') echo'Выберите страну погрузки</option><option value="">Все страны';?><?php if (LANG=='ro') echo'Selectați țara</option><option value="">Toate țările';?><?php if (LANG=='en') echo'Select loading country</option><option value="">All countries';?></option><?php echo $countries; ?></select>
 
   </div>
 
@@ -303,7 +303,7 @@ return $n;
 
     <label for="exampleInputEmail2"><?php if (LANG=='ru') echo'Страна разгрузки';?><?php if (LANG=='ro') echo'Ţara de descărcare';?><?php if (LANG=='en') echo'Unloading country';?></label>
 
-    <select class="form-control" id="country_to" name="country_to"><option value=""><?php if (LANG=='ru') echo'Выберите страну разгрузки</option><option value="">Все страны';?><?php if (LANG=='ro') echo'Selectați țara</option><option value="">Toate țările';?><?php if (LANG=='en') echo'Select unloading country</option><option value="">All countries';?></option><?php echo $countries2; ?></select>
+    <select class="form-control" style="padding: 0px;"  id="country_to" name="country_to"><option value=""><?php if (LANG=='ru') echo'Выберите страну разгрузки</option><option value="">Все страны';?><?php if (LANG=='ro') echo'Selectați țara</option><option value="">Toate țările';?><?php if (LANG=='en') echo'Select unloading country</option><option value="">All countries';?></option><?php echo $countries2; ?></select>
 
   </div>
 
@@ -519,8 +519,9 @@ return $n;
 
 
 		if (LANG=='en') $from_= 'from';
-echo '<div style="float:right;margin-top:1em">'.$page_.' '.$_GET['page'].' '.$from_.' '.$PagesCount.' </div>';
-
+	echo '<div style="float:right;margin-top:1em">'.$page_.' '.$_GET['page'].' '.$from_.' '.$PagesCount.' </div>';
+	echo Navigation(htmlspecialchars($_GET['page'],ENT_QUOTES),$PagesCount);
+	echo'</div>';
 
 		echo '<table cellpadding="0" cellspacing="0" border="0" id="table" class="sortable" style="margin-top:2em">
 
