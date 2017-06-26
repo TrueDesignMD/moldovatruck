@@ -148,7 +148,7 @@ h1,.h1{font-size:32px}
   border: 1px solid transparent;
 }
 .white_block{
-    background-color: rgba(1,1,1,0.55);
+    background-color: rgba(1,1,1,0.45);
     width: 100%;
     height: 650px;
     position: absolute;
@@ -517,22 +517,7 @@ h1,.h1{font-size:32px}
 	padding-right:5%;
 	display:none;
 }
-/*#MYform{*/
-    /*display:block;*/
-	/*margin-top:20px;*/
-	/*padding:1em;*/
-	/*position:absolute;*/
-	/*overflow:auto;*/
-	/*border:1px transparent;*/
-	/*border-radius:5px;*/
-	/*display:none;*/
-	/*color:black;*/
-    /*padding-top: 15px;*/
-    /*padding-left: 40px;*/
-    /*padding-right: 41px;*/
-	/*width:496px;*/
-	/*height:900px;*/
-	/*}*/
+
 #MYform{
     display: block;
     position: absolute;
