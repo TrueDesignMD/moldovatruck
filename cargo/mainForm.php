@@ -401,6 +401,24 @@ echo $countries;
 	</div>
 	<div class="col-sm-12 col-xs-12">
 		<label class="col-sm-6 col-xs-12">
+			<?php if($mosConfig_lang == 'ru') { echo "Дата погрузки"; }
+			elseif ($mosConfig_lang == 'ro') { echo "Data incarcarii"; }
+			elseif ($mosConfig_lang == 'en') { echo "Loading Date"; }
+			?> <span style="color: red">*</span>
+		</label>
+		<span id="date_span"  class="col-sm-6 col-xs-12" style="display: block;">
+<div class="form-group">
+       <div class='input-group date' id='date_export'>
+                   <input type='text' class="form-control" id="dt_export" name="date_export" style="width:100%;padding: 3px 5px;font-size: 1em;height:auto" value="<?php echo $_POST['date_export'] ?>"/>
+                   <span class="input-group-addon" style="padding:0px; padding-left:5px; padding-right:5px">
+                       <span class="glyphicon glyphicon-calendar"></span>
+                    </span>
+                </div>
+  </div>
+</span>
+	</div>
+	<div class="col-sm-12 col-xs-12">
+		<label class="col-sm-6 col-xs-12">
 			<?php if($mosConfig_lang == 'ru') { echo "Тип транспорта"; }
 			elseif ($mosConfig_lang == 'ro') { echo "Tipul de transport"; }
 			elseif ($mosConfig_lang == 'en') { echo "Transport type"; }
@@ -435,24 +453,7 @@ echo $transport_types;
 </select>
 </span>
 		</div>
-	<div class="col-sm-12 col-xs-12">
-		<label class="col-sm-6 col-xs-12">
-			<?php if($mosConfig_lang == 'ru') { echo "Дата погрузки"; }
-			elseif ($mosConfig_lang == 'ro') { echo "Data incarcarii"; }
-			elseif ($mosConfig_lang == 'en') { echo "Loading Date"; }
-			?> <span style="color: red">*</span>
-		</label>
-		<span id="date_span"  class="col-sm-6 col-xs-12" style="display: block;">
-<div class="form-group">
-       <div class='input-group date' id='date_export'>
-                   <input type='text' class="form-control" id="dt_export" name="date_export" style="width:100%;padding: 3px 5px;font-size: 1em;height:auto" value="<?php echo $_POST['date_export'] ?>"/>
-                   <span class="input-group-addon" style="padding:0px; padding-left:5px; padding-right:5px">
-                       <span class="glyphicon glyphicon-calendar"></span>
-                    </span>
-                </div>
-  </div>
-</span>
-	</div>
+
 	<div class="col-sm-12 col-xs-12">
 		<label class="col-sm-6 col-xs-12">
 			<?php if($mosConfig_lang == 'ru') { echo "Контактное лицо"; }
